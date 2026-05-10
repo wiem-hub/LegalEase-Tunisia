@@ -1,0 +1,3968 @@
+[
+  {
+    "document_id": 1,
+    "title": {
+      "ar": "",
+      "fr": "Procès-Verbal de nomination et formalités de création d’entreprise"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure administrative",
+    "law_number": "Guide du Guichet Unique de l’API, pages 15-22",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Procédures pour nommer un dirigeant et accomplir les démarches légales pour créer une société en Tunisie."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Etape 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Rédiger un procès-verbal de nomination si les statuts ne prévoient pas le dirigeant."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Etape 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Indiquer dans le PV : identité du dirigeant, siège social, durée du mandat, rémunération et avantages."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Etape 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Pour SARL : indiquer les associés et le gérant nommé."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Etape 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Pour SA : indiquer les actionnaires et le dirigeant nommé."
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Etape 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Mentionner la date, le lieu et la nature de l’assemblée générale, le président, les parts sociales et le résumé des discussions."
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Etape 6"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ouvrir un compte bancaire au nom de la société (obligatoire pour SA, facultatif pour SARL/SUARL depuis 2019)."
+        }
+      },
+      {
+        "section_id": 7,
+        "title": {
+          "ar": "",
+          "fr": "Etape 7"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Déposer le capital social dans un compte indisponible jusqu’à accomplissement des formalités."
+        }
+      },
+      {
+        "section_id": 8,
+        "title": {
+          "ar": "",
+          "fr": "Etape 8"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Enregistrer les statuts et PV de nomination à la Recette des Finances dans les 60 jours."
+        }
+      },
+      {
+        "section_id": 9,
+        "title": {
+          "ar": "",
+          "fr": "Etape 9"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fournir les documents nécessaires : statuts signés, PV de nomination signés, copies de CIN/Passeports, contrat de location ou titre de propriété, attestation de dénomination sociale."
+        }
+      },
+      {
+        "section_id": 10,
+        "title": {
+          "ar": "",
+          "fr": "Etape 10"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Immatriculer la société au Registre National des Entreprises (RNE) pour obtenir l’extrait et la déclaration d’existence."
+        }
+      },
+      {
+        "section_id": 11,
+        "title": {
+          "ar": "",
+          "fr": "Etape 11"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Déclarer la société à la CNSS pour la couverture sociale obligatoire."
+        }
+      },
+      {
+        "section_id": 12,
+        "title": {
+          "ar": "",
+          "fr": "Etape 12"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Préparer un cachet pour la société."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "startup",
+          "company_creation"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "To create a company in Tunisia: 1) Draft minutes naming the manager. 2) Open a bank account in the company name. 3) Register statutes at the tax office within 60 days. 4) Register at the RNE to get your company extract. 5) Declare to CNSS for social coverage. 6) Get a company stamp.",
+      "fr": "Rédiger un procès-verbal de nomination si les statuts ne prévoient pas le dirigeant.\nIndiquer dans le PV : identité du dirigeant, siège social, durée du mandat, rémunération et avantages.\nPour SARL : indiquer les associés et le gérant nommé.\nPour SA : indiquer les actionnaires et le dirigeant nommé.\nMentionner la date, le lieu et la nature de l’assemblée générale, le président, les parts sociales et le résumé des discussions.\nOuvrir un compte bancaire au nom de la société (obligatoire pour SA, facultatif pour SARL/SUARL depuis 2019).\nDéposer le capital social dans un compte indisponible jusqu’à accomplissement des formalités.\nEnregistrer les statuts et PV de nomination à la Recette des Finances dans les 60 jours.\nFournir les documents nécessaires : statuts signés, PV de nomination signés, copies de CIN/Passeports, contrat de location ou titre de propriété, attestation de dénomination sociale.\nImmatriculer la société au Registre National des Entreprises (RNE) pour obtenir l’extrait et la déclaration d’existence.\nDéclarer la société à la CNSS pour la couverture sociale obligatoire.\nPréparer un cachet pour la société.",
+      "ar": "باش تعمل شركة في تونس: \n1) تعمل محضر باش يسمي لمدير.\n2) تمشي تفتح حساب بنكي باسم الشركة.\n3) تسجل القانونيات عند مكتب الضريبة في وقتاش ما يزيدش على 60 يوم.\n4) تسجل عند الرنإ باش تجيب مستخرج الشركة.\n5) تعمل إعلان عند الصنص باش تحصل على التغطية الإجتماعية.\n6) تجيب ختم الشركة. \nفاما أنواع الشركات كثيرة زي السارل، السا،.Api، و باش تفتح شركة لازم تحصل على باتنت."
+    },
+    "source_document": "entry1.json"
+  },
+  {
+    "document_id": 2,
+    "title": {
+      "ar": "",
+      "fr": "Immatriculation d’une SARL"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure administrative",
+    "law_number": "Guide du Guichet Unique de l’API, page 21",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Démarches et documents nécessaires pour immatriculer une SARL en Tunisie."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Etape 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fournir la patente (déclaration d’existence + carte d’identification fiscale)."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Etape 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Remplir le formulaire de demande d’immatriculation au RNE signé par le représentant légal."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Etape 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fournir un contrat de location ou titre de propriété enregistré."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Etape 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fournir certificat de réservation de dénomination sociale."
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Etape 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fournir les statuts signés et enregistrés."
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Etape 6"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Préparer copies de CIN/passeports des associés."
+        }
+      },
+      {
+        "section_id": 7,
+        "title": {
+          "ar": "",
+          "fr": "Etape 7"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Payer frais d’immatriculation (environ 50 dinars, pénalités 25 dinars/mois de retard)."
+        }
+      },
+      {
+        "section_id": 8,
+        "title": {
+          "ar": "",
+          "fr": "Etape 8"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Recevoir un extrait du Registre National des Entreprises."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "startup",
+          "company_creation"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "To register a SARL: 1) Get data_existence certificate and tax ID. 2) Fill the RNE registration form. 3) Provide rental contract or property title. 4) Provide company name reservation certificate. 5) Submit signed statutes and ID copies. 6) Pay ~50 dinars registration fee. 7) Receive your RNE extract.",
+      "fr": "Fournir la patente (déclaration d’existence + carte d’identification fiscale).\nRemplir le formulaire de demande d’immatriculation au RNE signé par le représentant légal.\nFournir un contrat de location ou titre de propriété enregistré.\nFournir certificat de réservation de dénomination sociale.\nFournir les statuts signés et enregistrés.\nPréparer copies de CIN/passeports des associés.\nPayer frais d’immatriculation (environ 50 dinars, pénalités 25 dinars/mois de retard).\nRecevoir un extrait du Registre National des Entreprises.",
+      "ar": "باش تسجل SARL, لازم تعمل هكا: \n1) تجيب شهادة وجود و بطاقة رقم الضريبة.\n2) تمشي تسجل في استمارة التسجيل في RNE.\n3) تجيب عقد الإيجار أو عنوان الملكية.\n4) تجيب شهادة حجز اسم الشركة.\n5) تسجل القانون الأساسي الموقع و نسخ من البطاقة الشخصية.\n6) تمشي تدفع حوالي 50 دينار sebagai رسوم التسجيل.\n7) تجيب مستخرج RNE. وقتاش تمشي تسجل في CNSS و تاخد patente و تسجل في API, نجم تفتح شركة بسرعة, فاما برشا شركات كيطلوك, موش كلها, ماكش مشكل باش تنجح, كيفاش تعمل كلهم باش يروحو زين."
+    },
+    "source_document": "entry1.json"
+  },
+  {
+    "document_id": 3,
+    "title": {
+      "ar": "",
+      "fr": "Dépôt des documents pour immatriculation"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Loi tunisienne sur le registre des entreprises, Articles 21-24",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Procédure de dépôt des documents et vérification d'identité lors de l'immatriculation des personnes physiques, morales, associations et constructions juridiques."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Toutes les demandes (papier ou électronique) sont consignées au bureau d'ordre avec date d'arrivée, type d'opération et identité du déposant."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Le déposant reçoit immédiatement un récépissé indiquant ses informations et celles de son établissement ou entreprise."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Le Centre vérifie l'identité, l'éligibilité et l'authenticité des documents."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les demandes doivent inclure les pièces obligatoires selon le type : CIN/passeport, certificat de réservation de raison sociale, acte constitutif, PV de nomination, liste des bénéficiaires effectifs, statuts, etc."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "immatriculation"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "When registering a company, you must submit all required documents (ID, company name certificate, statutes, etc). The office records your application and gives you a receipt immediately.",
+      "fr": "Toutes les demandes (papier ou électronique) sont consignées au bureau d'ordre avec date d'arrivée, type d'opération et identité du déposant.\nLe déposant reçoit immédiatement un récépissé indiquant ses informations et celles de son établissement ou entreprise.\nLe Centre vérifie l'identité, l'éligibilité et l'authenticité des documents.\nLes demandes doivent inclure les pièces obligatoires selon le type : CIN/passeport, certificat de réservation de raison sociale, acte constitutif, PV de nomination, liste des bénéficiaires effectifs, statuts, etc.",
+      "ar": "وقتاش كتسجل شركة، لازم تسجل جميع الوثائق المطلوبة (بطاقة التعريف، شهادة اسم الشركة، القانون الأساسي، إلخ). المكتب يسجل طلبك ويعطيك إيصالا فورا باش تثبت تقديمك للوثائق ل RNE و CNSS و الحصول على patente و تسجيل الشركة ك SARL أو SA من خلال API."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 4,
+    "title": {
+      "ar": "",
+      "fr": "Mise à jour et modification des données du registre"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Articles 25-28",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Obligations de mise à jour et modifications à effectuer dans le registre de l'entreprise."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Toute modification doit être déposée dans le mois qui suit sa date."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Le Centre vérifie que la modification n'est pas en contradiction avec le registre."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les modifications incluent cessation partielle ou totale de l'activité, décès de l'immatriculé, tutelle ou curatelle, et renouvellement provisoire de l'immatriculation."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "La mention de suspension ou cessation n'empêche pas les tiers de demander une inscription."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "modification_update"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "Any changes to your company must be reported within one month. This includes stopping activity, death of the owner, or guardianship changes.",
+      "fr": "Toute modification doit être déposée dans le mois qui suit sa date.\nLe Centre vérifie que la modification n'est pas en contradiction avec le registre.\nLes modifications incluent cessation partielle ou totale de l'activité, décès de l'immatriculé, tutelle ou curatelle, et renouvellement provisoire de l'immatriculation.\nLa mention de suspension ou cessation n'empêche pas les tiers de demander une inscription.",
+      "ar": "لازم تبلغو على أي تغيير في شركةكم في ظرف شهر. هادشي شامل توقف النشاط، موت المالك، أو تغييرات في الوصاية. باش تتحذفو أي مشاكل مع الرايط، لازم تعملو هاد التبليغ في الوقت المناسب. وقتاش تتمشي لتسجل التغييرات في السجلات، نجم تجيب المستندات اللازمة باش تسجلو في RNE و CNSS و تاخدو патنت أو تسجيل في شكل SARL أو SA. فاما برشا التغييرات اللي ممكن تطرأ على شركة، موش كلها لازم تسجلها في API. كيفاش تتعاملو مع هاد التغييرات، لازم تتبعو الإجراءات اللازمة باش تتحذفو أي مخالفات."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 5,
+    "title": {
+      "ar": "",
+      "fr": "Dépôt des états financiers et rapports"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Articles 32-34",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Obligations pour les entreprises, associations et constructions juridiques de déposer leurs états financiers et rapports des commissaires au compte."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les états financiers doivent être déposés au plus tard dans le septième mois suivant la clôture de l'exercice."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les sociétés doivent déposer les PV d'assemblée générale et rapports des commissaires pour toute augmentation ou réduction de capital."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les sociétés étrangères doivent fournir statuts et liste des bénéficiaires effectifs lors de l'immatriculation."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Toute modification des dirigeants, bénéficiaires ou siège social doit être déposée selon l'article 25."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "financial_documents"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "Companies must submit their financial statements within 7 months after the end of the fiscal year. Any changes to directors or headquarters must also be reported.",
+      "fr": "Les états financiers doivent être déposés au plus tard dans le septième mois suivant la clôture de l'exercice.\nLes sociétés doivent déposer les PV d'assemblée générale et rapports des commissaires pour toute augmentation ou réduction de capital.\nLes sociétés étrangères doivent fournir statuts et liste des bénéficiaires effectifs lors de l'immatriculation.\nToute modification des dirigeants, bénéficiaires ou siège social doit être déposée selon l'article 25.",
+      "ar": "الشركات لازم تسجل estados ماليينها في غضون 7 أشهر بعد ما يخلص السنة المالية. و أي تغييرات في المديرين أو المقر الرئيسي لازم يتم الإبلاغ عنها باش تكون في إطار القانون و تتحصل على RNE و تسجل في CNSS و تاخد patente و تدي API و تتحول ل SARL أو SA."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 6,
+    "title": {
+      "ar": "",
+      "fr": "Publication des opérations au registre"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Articles 46-50",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Obligations de publication et de communication des informations au public."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Le Centre publie un Bulletin officiel avec toutes les opérations relatives aux entreprises."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Cette publication vaut publicité légale au Journal officiel."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les informations publiées incluent constitution, modification, liquidation, dissolution, radiation, etc."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les entreprises doivent indiquer leur numéro d'immatriculation sur tous les documents commerciaux."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "publicity"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "The registration center publishes all company operations in an official bulletin. Companies must show their registration number on all commercial documents.",
+      "fr": "Le Centre publie un Bulletin officiel avec toutes les opérations relatives aux entreprises.\nCette publication vaut publicité légale au Journal officiel.\nLes informations publiées incluent constitution, modification, liquidation, dissolution, radiation, etc.\nLes entreprises doivent indiquer leur numéro d'immatriculation sur tous les documents commerciaux.",
+      "ar": "مركز التسجيل كي نشر كل عمليات الشركات في بوليتين رسمي. الشركات لازم تظهر رقم تسجيلها على جميع الوثائق التجارية."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 7,
+    "title": {
+      "ar": "",
+      "fr": "Sanctions pour retard ou fausses déclarations"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Articles 51-59",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Sanctions financières et pénales pour non-respect des obligations d'immatriculation et dépôt de documents."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Pénalités de retard : moitié de la redevance due par mois de retard."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Non-conformité ou absence de dépôt : constat par procès-verbal et notification au ministère public."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Amendes : de 1 000 à 5 000 dinars pour omission, double pour récidive ou personnes morales, jusqu'à emprisonnement d'un an pour non-immatriculation."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Fausses déclarations ou falsifications : prison jusqu'à 5 ans et amende jusqu'à 50 000 dinars, jusqu'à 15 ans et 100 000 dinars pour falsification de documents officiels."
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Regle 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Infractions constatées par le Directeur du Centre, officiers de police judiciaire et agents habilités."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "penalties_sanctions"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "Late registration: penalty of half the fee per month late. False declarations: up to 5 years prison and 50,000 dinars fine. Forgery of official documents: up to 15 years and 100,000 dinars.",
+      "fr": "Pénalités de retard : moitié de la redevance due par mois de retard.\nNon-conformité ou absence de dépôt : constat par procès-verbal et notification au ministère public.\nAmendes : de 1 000 à 5 000 dinars pour omission, double pour récidive ou personnes morales, jusqu'à emprisonnement d'un an pour non-immatriculation.\nFausses déclarations ou falsifications : prison jusqu'à 5 ans et amende jusqu'à 50 000 dinars, jusqu'à 15 ans et 100 000 dinars pour falsification de documents officiels.\nInfractions constatées par le Directeur du Centre, officiers de police judiciaire et agents habilités.",
+      "ar": "التسجيل المتأخر: عقوبة نصف الرسوم لكل شهر متأخر. الإدلاء ببيانات كاذبة: حتى 5 سنين سجن و 50,000 دينار غرامة. تزوير الوثائق الرسمية: حتى 15 سنة و 100,000 دينار. لازم تعرف كيفاش تسجل باش ت避ي العقوبات. نجم تتعاقب لو تمشي تسجل متأخر أو تعمل إدلاء ببيانات كاذبة. فاما عقوبات برشا صعبة: \n1. لو تمشي تسجل متأخر، نجم تتحمل نصف الرسوم لكل شهر متأخر.\n2. لو تعمل إدلاء ببيانات كاذبة، نجم تتحمل حتى 5 سنين سجن و 50,000 دينار غرامة.\n3. لو تعمل تزوير الوثائق الرسمية زي RNE أو CNSS أو السجل التجاري أو patente أو وثائق SARL أو SA أو API، نجم تتحمل حتى 15 سنة سجن و 100,000 دينار غرامة. موش هناك حجة، كيفاش وقتاش تمشي تسجل، لازم تسجل باش ت避ي المشاكل. ماكش هناك فرصة ثانية، تعمل كيشك و تجيب نفسك المشاكل."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 8,
+    "title": {
+      "ar": "",
+      "fr": "Dispositions transitoires et mise en place du Centre"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi / Reglementation",
+    "law_number": "Articles 60-64",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Règles transitoires pour la mise en place du Centre national du registre des entreprises et transfert des dossiers."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Regle 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Entrée en vigueur de la loi dans les 3 mois suivant sa publication."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Regle 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Transfert des dossiers, registres et fonds par les tribunaux et l’Institut national de normalisation au Centre."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Regle 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Changement des numéros d'immatriculation pour les personnes immatriculées selon l'ancienne loi dans un délai de 3 mois."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Regle 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Obligation pour les immatriculés de mettre à jour leurs données dans les 6 mois suivant la mise en place du Centre."
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Regle 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Abrogation de toutes les lois contraires, notamment la loi n° 95-44 du 2 mai 1995."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "company_registration",
+          "transitional_provisions"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "Courts and other institutions must transfer all company files to the new registration center within 3 months. Existing companies must update their data within 6 months.",
+      "fr": "Entrée en vigueur de la loi dans les 3 mois suivant sa publication.\nTransfert des dossiers, registres et fonds par les tribunaux et l’Institut national de normalisation au Centre.\nChangement des numéros d'immatriculation pour les personnes immatriculées selon l'ancienne loi dans un délai de 3 mois.\nObligation pour les immatriculés de mettre à jour leurs données dans les 6 mois suivant la mise en place du Centre.\nAbrogation de toutes les lois contraires, notamment la loi n° 95-44 du 2 mai 1995.",
+      "ar": "المحاكم و المؤسسات الاخرى لازم تقلب جميع ملفات الشركات لمركز التسجيل الجديد في ظرف 3 أشهر. الشركات الحالية لازم تعمل تحديث بياناتها في ظرف 6 أشهر."
+    },
+    "source_document": "entry2.json"
+  },
+  {
+    "document_id": 9,
+    "title": {
+      "ar": "",
+      "fr": "Constitution en ligne d’une société anonyme (SA) via le site web de l’API"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Sociétés dont les activités sont régies par le Code d’Incitation aux investissements, capital sans apport en nature. Constitution en ligne dispense la présentation papier des documents.. Delai: 24 heures."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau de l’administrateur du système de constitution juridique des sociétés en ligne (API) : recevabilité de la déclaration électronique"
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau de l’enregistrement des actes de sociétés (Recette des finances) : enregistrement des actes constitutifs"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau de contrôle des impôts : déclaration d’existence et carte d’identification fiscale"
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau du greffe du tribunal de première instance : immatriculation au Registre de Commerce"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau de l’Imprimerie officielle de la République tunisienne : publication au JORT"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Constitution en ligne d’une société anonyme (SA) via le site web de l’API"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Create a company (SA) online via the API website in 24 hours. No paper documents needed. Steps go through tax office, court registry, and official gazette automatically.",
+      "fr": "Bureau de l’administrateur du système de constitution juridique des sociétés en ligne (API) : recevabilité de la déclaration électronique\nBureau de l’enregistrement des actes de sociétés (Recette des finances) : enregistrement des actes constitutifs\nBureau de contrôle des impôts : déclaration d’existence et carte d’identification fiscale\nBureau du greffe du tribunal de première instance : immatriculation au Registre de Commerce\nBureau de l’Imprimerie officielle de la République tunisienne : publication au JORT",
+      "ar": "نجم تعمل شركة (SA) بالإنترنت من خلال موقع API في 24 ساعة، موش محتاجش وثائق ورقية. باش تعمل هاد الشي، لازم تمشي في الخطوات التالية: \n1. تسجل في السجل التجاري في المكتب الضريبي\n2. تسجل في سجل المحكمة\n3. تنشر الإعلان في الجريدة الرسمية\nكل هادشي هيتم بشكل أوتوماتيكي، فاما وقتاش تكمل التسجيل، تمشي تلقى شركة (SA) جاهزة، و تقدر تحصل على RNE و CNSS و patente، و حتى تقدر تحول شركة (SA) لشركة (SARL) لو كنتي محتاجش."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 10,
+    "title": {
+      "ar": "",
+      "fr": "Constitution via l’interlocuteur unique au Guichet Unique"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Personnes physiques et morales (SARL, SUARL, SA) régies par le Code d’Incitation aux investissements. Delai: 24 heures."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bureau de l’interlocuteur unique : accomplit toutes les formalités pour les promoteurs et entreprises dans les 24 heures"
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Enregistrement des actes de sociétés / Recette des finances"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Contrôle des impôts"
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Greffe du tribunal de première instance"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Imprimerie officielle (JORT)"
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 6"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Formalités douanières (numéro d’identification / code en douane)"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Constitution via l’interlocuteur unique au Guichet Unique"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Use the one-stop-shop (Guichet Unique) to create any company type (SARL, SUARL, SA) in 24 hours. One person handles all steps for you: taxes, court, customs, social security.",
+      "fr": "Bureau de l’interlocuteur unique : accomplit toutes les formalités pour les promoteurs et entreprises dans les 24 heures\nEnregistrement des actes de sociétés / Recette des finances\nContrôle des impôts\nGreffe du tribunal de première instance\nImprimerie officielle (JORT)\nFormalités douanières (numéro d’identification / code en douane)",
+      "ar": "تمشي للغيشي وحداني باش تعمل أي نوع من الشركات (SARL, SUARL, SA) في 24 ساعة.一人 نجم يدير كل الحجات لك: الضرايب، المحكمة، الجمارك، CNSS. لازم تسجل في RNE و تاخد патنت و تسجل في API و تدير كل الأوراق اللازمة باش تتماشي مع القانون. فاما شخص واحد يخدمك و يدير كل الحجات باش ما تتحملش برشا من الأوراق و الإجراءات. وقتاش تمشي للغيشي وحداني، نجم تلقى كل ما تحتاجه في وقت قصير و بسهولة. موش هناك حاجة تخوفك، كلشي باش يسهل عليك و يخليك تتمشي بالشغل ديالك بسرعة و بأمان."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 11,
+    "title": {
+      "ar": "",
+      "fr": "Augmentation de capital – Société Anonyme (SA)"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Sociétés anonymes faisant ou non appel public à l’épargne. Delai: 24 heures."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Enregistrement des actes de sociétés (Recette des finances)"
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Greffe du tribunal"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Imprimerie officielle (JORT)"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Augmentation de capital – Société Anonyme (SA)"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "To increase capital of a SA: register the documents at the tax office, court registry, and publish in the official gazette. Done in 24 hours.",
+      "fr": "Enregistrement des actes de sociétés (Recette des finances)\nGreffe du tribunal\nImprimerie officielle (JORT)",
+      "ar": "باش تزيد رأس المال ديال شركة SA, لازم تسجل الوثائق عند مكتب الضريبة, سجلات المحكمة, و تنشرها ف الجريدة الرسمية. تمشي كولشي ف 24 ساعة."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 12,
+    "title": {
+      "ar": "",
+      "fr": "Délivrance des numéros d’identification en douane / code en douane"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Sociétés régies par le Code d’Incitation aux investissements. Delai: Séance tenante."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Douane"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Délivrance des numéros d’identification en douane / code en douane"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Get your customs identification number at the API one-stop-shop. Done immediately on the spot.",
+      "fr": "Douane",
+      "ar": "حصل على رقم التعريف الجمركي عند مكتب API واحد. تمشي باش تحصل عليه فما على الفور ومباشرة."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 13,
+    "title": {
+      "ar": "",
+      "fr": "Affiliation au régime légal de sécurité sociale"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Sociétés régies par le Code d’Incitation aux investissements. Delai: Séance tenante."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "CNSS"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Affiliation au régime légal de sécurité sociale"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "Register your company with CNSS social security at the API office. Done immediately on the spot.",
+      "fr": "CNSS",
+      "ar": "سجل شركتك مع CNSS باش تحصل على تأمين اجتماعي عند مكتب API. تمشي تسجل على الفور ومباشرة في المكان."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 14,
+    "title": {
+      "ar": "",
+      "fr": "Affiliation des travailleurs non salariés"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Promoteurs, gérants, PDG. Delai: Séance tenante."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "CNSS"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Affiliation des travailleurs non salariés"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "If you are a founder, manager, or CEO, you must register as a non-salaried worker with CNSS. Done immediately.",
+      "fr": "CNSS",
+      "ar": "إذا كنت مؤسس أو مدير أو CEO, لازم تسجل كعامل غير مؤجر عند CNSS. باش يعمل هاكا فورا."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 15,
+    "title": {
+      "ar": "",
+      "fr": "Délivrance des attestations de non-soumission au visa du contrat de travail"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Employeurs et travailleurs étrangers (promoteurs, gérants, PDG). Delai: 3 jours."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ministère de l’Emploi et de la Formation Professionnelle"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Délivrance des attestations de non-soumission au visa du contrat de travail"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "legal_registration",
+    "simplified_text": {
+      "en": "Foreign employers and workers can get a work permit exemption certificate. Takes 3 days.",
+      "fr": "Ministère de l’Emploi et de la Formation Professionnelle",
+      "ar": "الموضفين والعمال الأجانب نجم ياخدو شهادة إعفاء من الرخصة باش يعملو. وقتاش؟ ثلاثة أيام."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 16,
+    "title": {
+      "ar": "",
+      "fr": "Délivrance des cartes de séjour"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Investisseurs et promoteurs étrangers. Delai: Récépissé séance tenante, carte de séjour ≤ 1 mois."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ministère de l’Intérieur"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Délivrance des cartes de séjour"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Foreign investors can get a residence permit at the API office. Receipt given immediately, card delivered within 1 month.",
+      "fr": "Ministère de l’Intérieur",
+      "ar": "لمستثمرين الأجانب نجم ياخدو رخصة إقامة فمكتب API. تتعطى الإستلامة فورا، وتتسلم الكارت خلال شهر."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 17,
+    "title": {
+      "ar": "",
+      "fr": "Publication au JORT"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Textes des actes constitutifs des sociétés. Delai: Séance tenante."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Imprimerie officielle de la République tunisienne"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Publication au JORT"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Publish your company formation documents in the official gazette (JORT). Done immediately.",
+      "fr": "Imprimerie officielle de la République tunisienne",
+      "ar": "خليك نشر وثائق تأسيس شركتك في الجريدة الرسمية (JORT) باش. لازم تعمل هاكا فورا."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 18,
+    "title": {
+      "ar": "",
+      "fr": "Assistance et information sur l’environnement d’investissement"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Toutes entités intéressées par l’investissement en Tunisie. Delai: N/A."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "API : déclaration projets d’investissement, Code d’incitation, avantages fiscaux et financiers"
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 2"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Recette des finances : enregistrement des actes"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 3"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Greffe du tribunal : inscription au registre"
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 4"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ministère de l’Intérieur : carte de séjour"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 5"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Interlocuteur unique : constitution juridique"
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 6"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Douane : formalités douanières"
+        }
+      },
+      {
+        "section_id": 7,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 7"
+        },
+        "content": {
+          "ar": "",
+          "fr": "CNSS : législation travail et sécurité sociale"
+        }
+      },
+      {
+        "section_id": 8,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 8"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ministère de l’Emploi : emploi/main d’œuvre étrangère"
+        }
+      },
+      {
+        "section_id": 9,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 9"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Contrôle des impôts : procédures et avantages fiscaux"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Assistance et information sur l’environnement d’investissement"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "The API provides information about investment opportunities, tax advantages, customs, social security, and employment procedures in Tunisia.",
+      "fr": "API : déclaration projets d’investissement, Code d’incitation, avantages fiscaux et financiers\nRecette des finances : enregistrement des actes\nGreffe du tribunal : inscription au registre\nMinistère de l’Intérieur : carte de séjour\nInterlocuteur unique : constitution juridique\nDouane : formalités douanières\nCNSS : législation travail et sécurité sociale\nMinistère de l’Emploi : emploi/main d’œuvre étrangère\nContrôle des impôts : procédures et avantages fiscaux",
+      "ar": "API باش تعطينا معلومات على فرص الاستثمار، الامتيازات الضريبية، الجمارك، الأمان الاجتماعي، وإجراءات الشغل في تونس، لازم تعرف كيفاش تسجل في RNE، CNSS، و كيفاش تدير شركات زي SARL، SA، و كيفاش تحصل على patente، نجم تلاقي برشا معلومات على الموضوع، فاما وقتاش تمشي لتسجل في API باش تتعلم كيفاش تجيب الامتيازات اللي مخصصة ليك."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 19,
+    "title": {
+      "ar": "",
+      "fr": "Déclaration d’exercice d’activité commerciale soumise à un cahier des charges"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Procedure Guichet Unique",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Eligibilite: Toutes entreprises soumises à un cahier des charges. Delai: Séance tenante."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bureau 1"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ministère du Commerce"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Guichet Unique",
+          "API",
+          "Déclaration d’exercice d’activité commerciale soumise à un cahier des charges"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Companies requiring a specifications booklet (cahier des charges) can declare their activity at the API. Done immediately.",
+      "fr": "Ministère du Commerce",
+      "ar": "الشركات اللي لازم ليها كشكول ديال المواصفات (cahier des charges) نجم ت宣ش نشاطها عند API. تمشي فورا."
+    },
+    "source_document": "entry3.json"
+  },
+  {
+    "document_id": 20,
+    "title": {
+      "ar": "",
+      "fr": "Article 6 - Obligation d'immatriculation"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 6",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "III - Affiliation et Immatriculation"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Obligation d'immatriculation"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Tout employeur occupant une personne des catégories prévues par l'article premier est tenu de la faire immatriculer à la CNSS. Cette obligation est étendue aux travailleurs indépendants. Les conditions et modalités sont fixées par décret."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "III - Affiliation et Immatriculation"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "Every employer must register their employees with CNSS. Self-employed workers must also register. Registration rules are set by decree.",
+      "fr": "Tout employeur occupant une personne des catégories prévues par l'article premier est tenu de la faire immatriculer à la CNSS. Cette obligation est étendue aux travailleurs indépendants. Les conditions et modalités sont fixées par décret.",
+      "ar": "كل مشغّل لازم يسجل موضّفيو باش عند CNSS. عمّال الحساب الخاص لازم يسجّلوا حتّى هما. قوانين التسجيل متحدّدة بقرار."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 21,
+    "title": {
+      "ar": "",
+      "fr": "Article 7 - Taux et calcul des cotisations"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 7",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "IV - Les Cotisations"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Taux et calcul des cotisations"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les cotisations dues sont fixées au taux de 7,5%, calculées sur la base des 2/3 du salaire minimum agricole ou interprofessionnel garanti selon la catégorie. Pour les salariés, 2/3 à charge de l'employeur et 1/3 à charge du salarié. Pour les travailleurs indépendants, le taux est à leur charge."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "IV - Les Cotisations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "Social security contributions are 7.5% of 2/3 of the minimum wage. Employers pay 2/3 of the contribution, employees pay 1/3. Self-employed pay the full amount.",
+      "fr": "Les cotisations dues sont fixées au taux de 7,5%, calculées sur la base des 2/3 du salaire minimum agricole ou interprofessionnel garanti selon la catégorie. Pour les salariés, 2/3 à charge de l'employeur et 1/3 à charge du salarié. Pour les travailleurs indépendants, le taux est à leur charge.",
+      "ar": "المساهمات الاجتماعية لازم تكون 7.5% من 2/3 من الأجر الأدنى. باش يعملو هاد الشي، لموضفين يمشي يخدو 2/3 من المساهمة و لموظفين يخدو 1/3. لمستقلين نجم يخدو الفلوس كاملة باش يسجلو في RNE و CNSS باش ياخدو الحماية الاجتماعية. وقتاش كايعملو هاد الشي، كاين برشا اشياء لي لازم ياخدو بيها العنان، كيفاش يديروا مع API و كيفاش ياخدو патنت. فاما برشا ناس كايعملو SARL و SA و كايحطو في CNSS باش ياخدو الحماية. موش كلشي كايعرف كيفاش يدير هاد الشي، ماكش فاهمين كيفاش ياخدو الحقوق ديالهم."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 22,
+    "title": {
+      "ar": "",
+      "fr": "Article 8 - Modalités de recouvrement"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 8",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "IV - Les Cotisations"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Modalités de recouvrement"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les modalités de recouvrement des cotisations sont fixées par décret."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "IV - Les Cotisations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "The methods for collecting social security contributions are determined by decree.",
+      "fr": "Les modalités de recouvrement des cotisations sont fixées par décret.",
+      "ar": "طرق جبي الصندوق الوطني للضمان الاجتماعي CNSS باش تتحدد بالمرسوم."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 23,
+    "title": {
+      "ar": "",
+      "fr": "Article 9 - Responsabilité de l'employeur"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 9",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "IV - Les Cotisations"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Responsabilité de l'employeur"
+        },
+        "content": {
+          "ar": "",
+          "fr": "L'employeur ne peut récupérer sur le travailleur les retenues qu'il a négligées et doit réparer tout préjudice résultant de sa négligence ou retard dans le versement des cotisations."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "IV - Les Cotisations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employer",
+    "simplified_text": {
+      "en": "If an employer forgets to deduct contributions, they cannot recover the money from the worker later. The employer must compensate any harm caused by their delay.",
+      "fr": "L'employeur ne peut récupérer sur le travailleur les retenues qu'il a négligées et doit réparer tout préjudice résultant de sa négligence ou retard dans le versement des cotisations.",
+      "ar": "لو صاحب الشغل نسي يخصم المساهمات، ما نجمش ياخد الفلوس من العامل بعدا. صاحب الشغل لازم يتعويض على الضرر لي CAUSED باش تأخيره."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 24,
+    "title": {
+      "ar": "",
+      "fr": "Article 10 - Bénéficiaires des prestations de soins"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 10",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. I - Les Soins"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bénéficiaires des prestations de soins"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les assurés sociaux, leur conjoint, enfants mineurs à charge, enfants au-delà de 20 ans incapables de travailler, la fille au-delà de 20 ans sans ressources, et les ascendants à charge remplissant certaines conditions."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Social security healthcare covers: the insured person, their spouse, minor children, disabled adult children, unmarried daughters without income, and dependent parents.",
+      "fr": "Les assurés sociaux, leur conjoint, enfants mineurs à charge, enfants au-delà de 20 ans incapables de travailler, la fille au-delà de 20 ans sans ressources, et les ascendants à charge remplissant certaines conditions.",
+      "ar": "الcoverage ديال الصحة للاجتماعية كتغطي: لمؤمن عليه، زوجتو، وليداتو الصغار، وليداتو البالغين المعاقين، بناتو العازبات لي ماعندهمش دخل، ووالديه المعتاسين."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 25,
+    "title": {
+      "ar": "",
+      "fr": "Article 11 - Prestations et action sanitaire"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 11",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. I - Les Soins"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Prestations et action sanitaire"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les personnes citées à l'article 10 bénéficient des prestations de soins et, le cas échéant, de l'action sanitaire assurée par la CNSS."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "All persons listed in Article 10 benefit from healthcare services provided by CNSS.",
+      "fr": "Les personnes citées à l'article 10 bénéficient des prestations de soins et, le cas échéant, de l'action sanitaire assurée par la CNSS.",
+      "ar": "الكول لي مذكورين في المادة 10 باش يستفدو من خدمات الصحة لي كتديها CNSS."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 26,
+    "title": {
+      "ar": "",
+      "fr": "Article 12 - Périodes de cotisations"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 12",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension de vieillesse"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Périodes de cotisations"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Pour déterminer le droit à pension, seules les périodes de cotisations effectives sont prises en compte."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Only actual contribution periods count when calculating pension rights.",
+      "fr": "Pour déterminer le droit à pension, seules les périodes de cotisations effectives sont prises en compte.",
+      "ar": "فاماASH باش تحسب حقوق التقاعد، لازم ناخذ فالعين فقط الفترات الحقيقية ديال التمويل."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 27,
+    "title": {
+      "ar": "",
+      "fr": "Article 13 - Conditions pour bénéficier d'une pension de vieillesse"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 13",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension de vieillesse"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Conditions pour bénéficier d'une pension de vieillesse"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Être âgé de 65 ans minimum, avoir au moins 120 mois de cotisations validées, et ne pas exercer d'activité professionnelle rémunérée."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "To get a retirement pension: be at least 65 years old, have at least 120 months of contributions, and not be working in a paid job.",
+      "fr": "Être âgé de 65 ans minimum, avoir au moins 120 mois de cotisations validées, et ne pas exercer d'activité professionnelle rémunérée.",
+      "ar": "باش تحصل على معاش التقاعد: لازم تكون عمرك على الأقل 65 عام، تعمل على الأقل 120 شهر من المدفوعات، وموش تعمل في شغل مدفوع الأجر."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 28,
+    "title": {
+      "ar": "",
+      "fr": "Article 14 - Montant de la pension de vieillesse"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 14",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension de vieillesse"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Montant de la pension de vieillesse"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Montant minimum : 30% du salaire minimum garanti. Fraction de cotisation supérieure à 120 mois : majoration de 0,5% par trimestre, sans dépasser 80% du salaire."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Minimum retirement pension: 30% of the minimum wage. Extra contributions beyond 120 months add 0.5% per quarter, up to a maximum of 80% of salary.",
+      "fr": "Montant minimum : 30% du salaire minimum garanti. Fraction de cotisation supérieure à 120 mois : majoration de 0,5% par trimestre, sans dépasser 80% du salaire.",
+      "ar": "لمينيموم ديال المعاش: 30% من الأجر لمينيموم. لمساهمات الزيادة على 120 شهر كتجيب 0.5% كلا ربع سنين، حتى لماكسيموم ديال 80% من الراتب."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 29,
+    "title": {
+      "ar": "",
+      "fr": "Article 15 - Bénéficiaires de la pension d'invalidité"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 15",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension d'invalidité"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Bénéficiaires de la pension d'invalidité"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Assurés sociaux atteints d'une incapacité non professionnelle réduisant leur capacité de travail d'au moins deux tiers."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Disability pension is for workers who lose at least 2/3 of their working capacity due to non-work-related causes.",
+      "fr": "Assurés sociaux atteints d'une incapacité non professionnelle réduisant leur capacité de travail d'au moins deux tiers.",
+      "ar": "المعاش للاعاقة هو لموظّفين اللي خسروا على الأقل 2/3 من قدرتهم على الشغل بسبب حوايج ماشي متعلّقة بالشغل."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 30,
+    "title": {
+      "ar": "",
+      "fr": "Article 16 - Conditions pour bénéficier de la pension d'invalidité"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 16",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension d'invalidité"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Conditions pour bénéficier de la pension d'invalidité"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Ne pas avoir atteint l'âge de la pension de vieillesse et avoir cotisé au moins 60 mois."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "To get a disability pension: you must not have reached retirement age and must have at least 60 months of contributions.",
+      "fr": "Ne pas avoir atteint l'âge de la pension de vieillesse et avoir cotisé au moins 60 mois.",
+      "ar": "باش تحصل على معاش العجز: لازم ما تسلّش لسن التقاعد و لازم تكون عندك على الأقل 60 شهر من المدفوعات ل RNE و CNSS."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 31,
+    "title": {
+      "ar": "",
+      "fr": "Article 17 - Montant de la pension d'invalidité"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 17",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension d'invalidité"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Montant de la pension d'invalidité"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Montant : 30% du salaire minimum garanti. Majorations trimestrielles de 0,5% pour cotisations supplémentaires, maximum 80%."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Disability pension: 30% of minimum wage, plus 0.5% per extra quarter of contributions, up to 80% maximum.",
+      "fr": "Montant : 30% du salaire minimum garanti. Majorations trimestrielles de 0,5% pour cotisations supplémentaires, maximum 80%.",
+      "ar": "المعاش د لاعاقة: 30% من الأجر الأدنى، زيد 0.5% كلما زاد ربع ف الدفع، لحد أقصى 80%."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 32,
+    "title": {
+      "ar": "",
+      "fr": "Article 18 - Majoration pour assistance tierce personne"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 18",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension d'invalidité"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Majoration pour assistance tierce personne"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Pension majorée de 20% si l'invalide a besoin d'une tierce personne pour les actes de la vie quotidienne."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "If a disabled person needs help with daily activities, their pension is increased by 20%.",
+      "fr": "Pension majorée de 20% si l'invalide a besoin d'une tierce personne pour les actes de la vie quotidienne.",
+      "ar": "إذا كان شخص معاق بحاجة لمساعدة في الأنشطة اليومية، فإنه لازم يزيد راتبه ب 20%. باش يعمل هاكا، نجم يروح لل RNE باش يسجل demande باش يزيدو له راتبه. وقتاش يروح، لازم يجيب معاه وثائق ضرورية باش يثبت حقه في هادي الزيادة. كيفاش يفعل هاكا، موش مهم، المهم هو يفعلها باش ياخد حقه. فاما برشا ناس معاقة كايحصلو على هادي الزيادة في راتبهم من CNSS أو من شركة كايعملو فيها، زي SARL أو SA. ماكش هناك مشكل في هادي الحالة، كل ما يهم هو أن الشخص المعاق ياخد حقه."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 33,
+    "title": {
+      "ar": "",
+      "fr": "Article 21 - Conjoint survivant"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 21",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension de survivants"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Conjoint survivant"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Conjoint survivant bénéficie d'une pension si le défunt remplissait les conditions pour pension de vieillesse ou d'invalidité."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "The surviving spouse receives a pension if the deceased met the conditions for retirement or disability pension.",
+      "fr": "Conjoint survivant bénéficie d'une pension si le défunt remplissait les conditions pour pension de vieillesse ou d'invalidité.",
+      "ar": "الزوج اللي باقي حية ياخد пенсيون لو المتوفى كان كامل الشروط باش ياخد пенсيون التقاعد أو пенсيون العجز."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 34,
+    "title": {
+      "ar": "",
+      "fr": "Article 23 - Montant de la pension de survivants"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 23",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. II - Pensions de vieillesse, invalidité et survivants. Pension de survivants"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Montant de la pension de survivants"
+        },
+        "content": {
+          "ar": "",
+          "fr": "50% de la pension de vieillesse ou d'invalidité du défunt."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Survivor's pension equals 50% of the deceased's retirement or disability pension.",
+      "fr": "50% de la pension de vieillesse ou d'invalidité du défunt.",
+      "ar": "المعاش للي باقي يكون 50% من المعاش ديال التقاعد أو المعاش ديال العجز لي كان عند الميت."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 35,
+    "title": {
+      "ar": "",
+      "fr": "Article 29 - Demande de pension"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 29",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. III - Liquidation des pensions"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Demande de pension"
+        },
+        "content": {
+          "ar": "",
+          "fr": "La demande doit être présentée à la CNSS dans un délai de 5 ans après l'âge légal de pension, cessation d'activité ou décès. Retard entraîne déchéance du droit aux arrérages antérieurs."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Pension applications must be submitted to CNSS within 5 years of reaching retirement age, stopping work, or death. Late applications lose past payments.",
+      "fr": "La demande doit être présentée à la CNSS dans un délai de 5 ans après l'âge légal de pension, cessation d'activité ou décès. Retard entraîne déchéance du droit aux arrérages antérieurs.",
+      "ar": "الطلبات ديال التقاعد لازم تسجل عند CNSS في غضون 5 سنين من وقت ما توصل لسن التقاعد، أو متوقفش عن الشغل، أو متوفى. الطلبات اللي جاية متأخرة غادي تفقد الأجور السابقة."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 36,
+    "title": {
+      "ar": "",
+      "fr": "Article 30 - Jouissance des pensions"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 30",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "II - Les Prestations. III - Liquidation des pensions"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Jouissance des pensions"
+        },
+        "content": {
+          "ar": "",
+          "fr": "La pension commence le 1er jour du mois suivant la cessation d'activité, reconnaissance d'invalidité ou décès. Interruption si conditions non remplies."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "II - Les Prestations"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Pension starts on the 1st day of the month after stopping work, disability recognition, or death. Payments stop if conditions are no longer met.",
+      "fr": "La pension commence le 1er jour du mois suivant la cessation d'activité, reconnaissance d'invalidité ou décès. Interruption si conditions non remplies.",
+      "ar": "المعاشة تبدا من أول يوم في الشهر اللي يجي بعد ما توقفش عن الشغل، أو بعد ما يعترفو بمعافيتك، أو بعد ما تموت. لمعاشة توقف إذا لم تحققش الشروط. لازم تكون في حالة تتوافق مع الشروط باش تستمر المعاشة. نجم توقف المعاشة وقتاش الشروط ما تحققش. كيفاش تعرف وقتاش المعاشة غادي توقف؟ برشا ناس كيستفدو من المعاشة و موش عارفين كيفاش الشروط كيتغيرو. فاما شروط واضحة و لازم تعرفها باش تستمر المعاشة. تمشي تسجل في RNE و CNSS باش تحقق الشروط. تجيب جميع الوثائق اللي تحتاجها باش تثبت حقك في المعاشة. تعمل كذا حاجة باش تحافظ على المعاشة، زي تسجل في SARL أو SA، أو تحصل على patente، أو تسجل في API. ماكش هناك حاجة صعبة، لازم تعملها باش تستمر المعاشة. \n1. تحقق الشروط اللي مطلوبة باش تستمر المعاشة.\n2. تمشي تسجل في CNSS و RNE.\n3. تجيب جميع الوثائق اللي تحتاجها."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 37,
+    "title": {
+      "ar": "",
+      "fr": "Article 35 - Subrogation de la CNSS"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 35",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "III - Dispositions Diverses"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Subrogation de la CNSS"
+        },
+        "content": {
+          "ar": "",
+          "fr": "La CNSS est subrogée de plein droit à la victime ou ses ayants droit pour le remboursement des dépenses dues à un accident ou blessure."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "III - Dispositions Diverses"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "CNSS automatically takes over the victim's or heirs' rights to recover medical expenses caused by an accident or injury.",
+      "fr": "La CNSS est subrogée de plein droit à la victime ou ses ayants droit pour le remboursement des dépenses dues à un accident ou blessure.",
+      "ar": "CNSS باش تاخد حقوق الضحية أو ورثته باش ترجع مصاريف الطبي باش تلقى من الحادث أو الجروح. CNSS نجم تاخد حقوقهم باش تسترجع الفلوس اللي صرفو باش يرجعو لمستوى قبل الحادث.CNSS لازم تاخد حقوقهم باش تسترجع مصاريف الطبي اللي صرفو باش يرجعو لمستوى قبل الحادث أو الجروح."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 38,
+    "title": {
+      "ar": "",
+      "fr": "Article 38 - Affiliation transitoire"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi securite sociale",
+    "law_number": "Loi CNSS - Article 38",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "IV - Dispositions Transitoires"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Affiliation transitoire"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Petits agriculteurs, pêcheurs et artisans peuvent présenter des demandes d'affiliation dans un délai d'un an après l'entrée en vigueur de la loi."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "CNSS",
+          "securite sociale",
+          "IV - Dispositions Transitoires"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Small farmers, fishermen, and artisans can apply for social security within one year after the law takes effect.",
+      "fr": "Petits agriculteurs, pêcheurs et artisans peuvent présenter des demandes d'affiliation dans un délai d'un an après l'entrée en vigueur de la loi.",
+      "ar": "الفلاحيين الصغار و الصيادين و الحرفيين نجم يتقدمو باش ياخدو تأمين اجتماعي مع الوقتاش يبدا القانون يطبق، و داكشي ممكن ي发生 في ظرف سنة واحدة."
+    },
+    "source_document": "entry4.json"
+  },
+  {
+    "document_id": 39,
+    "title": {
+      "ar": "",
+      "fr": "Article 6 - Employment Contract"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 6",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "An employment contract exists when a worker performs services under the authority and supervision of an employer in return for remuneration. The contract may be written or oral, explicit or implicit."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Employment Contract"
+        },
+        "content": {
+          "ar": "",
+          "fr": "An employment contract exists when a worker performs services under the authority and supervision of an employer in return for remuneration. The contract may be written or oral, explicit or implicit."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Definition of the Employment Relationship",
+          "Legally defines who must be declared to CNSS."
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "An employment contract exists when someone works under the authority of an employer for pay. It can be written or verbal.",
+      "fr": "An employment contract exists when a worker performs services under the authority and supervision of an employer in return for remuneration. The contract may be written or oral, explicit or implicit.",
+      "ar": "عقد الشغل موجود لما يكون حد شايع تحت سلطة مشغّل باش ياخد فلوس. نجم يكون مكتوب أو شفهي."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 40,
+    "title": {
+      "ar": "",
+      "fr": "Article 6-2 - Fixed-Term Contract (CDD)"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 6-2",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "A fixed-term contract is allowed only in specific cases: temporary increase in activity, replacement of an absent employee, or seasonal work. Total duration must not exceed 4 years, including renewals"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Fixed-Term Contract (CDD)"
+        },
+        "content": {
+          "ar": "",
+          "fr": "A fixed-term contract is allowed only in specific cases: temporary increase in activity, replacement of an absent employee, or seasonal work. Total duration must not exceed 4 years, including renewals."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Types of Employment Contracts"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Fixed-term contracts (CDD) are only for temporary work increases, replacing absent workers, or seasonal work. Maximum total duration: 4 years.",
+      "fr": "A fixed-term contract is allowed only in specific cases: temporary increase in activity, replacement of an absent employee, or seasonal work. Total duration must not exceed 4 years, including renewals.",
+      "ar": "عقد مودع لمدة محددة (CDD) ممكن يكون فقط باش يعوض على زيادة مؤقتة في الشغل، أو باش يخلف عمال غايبين، أو شغل موسمي. أقصى مدة إجمالية: 4 سنين."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 41,
+    "title": {
+      "ar": "",
+      "fr": "Article 6-3 - Transformation into Open-Ended Contract (CDI)"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 6-3",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "If a fixed-term contract exceeds the legal duration or is renewed illegally, it is automatically considered an open-ended contract (CDI)."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Transformation into Open-Ended Contract (CDI)"
+        },
+        "content": {
+          "ar": "",
+          "fr": "If a fixed-term contract exceeds the legal duration or is renewed illegally, it is automatically considered an open-ended contract (CDI)."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Types of Employment Contracts"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "If a CDD exceeds the legal limit or is renewed illegally, it automatically becomes a permanent contract (CDI).",
+      "fr": "If a fixed-term contract exceeds the legal duration or is renewed illegally, it is automatically considered an open-ended contract (CDI).",
+      "ar": "إذا ما تجاوز عقد العمل المؤقت (CDD) الحد القانوني أو تجدد بطريقة غير قانونية، باش يتحول تلقائيا إلى عقد عمل دائم (CDI)."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 42,
+    "title": {
+      "ar": "",
+      "fr": "Article 6-4 - Equal Rights for CDD Employees"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 6-4",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Employees hired under a CDD must receive the same salary as permanent employees and benefit from the same working conditions."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Equal Rights for CDD Employees"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Employees hired under a CDD must receive the same salary as permanent employees and benefit from the same working conditions."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Types of Employment Contracts"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "CDD employees must receive the same salary and working conditions as permanent employees.",
+      "fr": "Employees hired under a CDD must receive the same salary as permanent employees and benefit from the same working conditions.",
+      "ar": "1. لازم موضفي الكونترات CDD ياخدو نفس الأجر و نفس الشروط ديال الشغل مثل موضفي الكونترات دايم، باش يتحقق لهم حقوقهم و يتقضوا معاملة عادلة."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 43,
+    "title": {
+      "ar": "",
+      "fr": "Article 18 - Trial Period"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 18",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "A trial period may be included in the employment contract. During this period, either party may terminate the contract without compensation but must respect the legal notice period."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Trial Period"
+        },
+        "content": {
+          "ar": "",
+          "fr": "A trial period may be included in the employment contract. During this period, either party may terminate the contract without compensation but must respect the legal notice period."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Trial Period (Période d’Essai)"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "A trial period can be included in an employment contract. Either party can end it without compensation, but must respect the notice period.",
+      "fr": "A trial period may be included in the employment contract. During this period, either party may terminate the contract without compensation but must respect the legal notice period.",
+      "ar": "فاما فترة تجريب باش نضيفها للعقد ديال الشغل. نجم الطرفين يخليوها بدون تعويض، لكن لازم يحترمو فترة الإشعار."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 44,
+    "title": {
+      "ar": "",
+      "fr": "Article 20 - Temporary Suspension"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 20",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "The employment contract is suspended (not terminated) in cases such as illness, accident, or maternity leave. After the suspension period, the employee has the right to return to their position."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Temporary Suspension"
+        },
+        "content": {
+          "ar": "",
+          "fr": "The employment contract is suspended (not terminated) in cases such as illness, accident, or maternity leave. After the suspension period, the employee has the right to return to their position."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Suspension of the Employment Contract"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "An employment contract is paused (not ended) during illness, accident, or maternity leave. The employee has the right to return to their job afterward.",
+      "fr": "The employment contract is suspended (not terminated) in cases such as illness, accident, or maternity leave. After the suspension period, the employee has the right to return to their position.",
+      "ar": "عقد الشغل متوقفش (ماتحطش حدا) وقت المرض، الحادث، أو إجازة الأمومة. الموظف عندو الحق يرجع لشغلو بعدا. باش يعمل هاكا، لازم يسجل غيابة عند RNE أو CNSS باش يحتفظ بحقو في الشغل. وقتاش يرجع، تمشي يخد патنتو أو يدير تسجيل عند API باش يفتح شغلو تاني. فاما شركات كثيرة زي SARL أو SA، ماكش فيهم مشكل باش يرجع الموظف لشغلو. نجم الموظف يرجع لشغلو بسهولة كيفاش كان قبل."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 45,
+    "title": {
+      "ar": "",
+      "fr": "Article 14 - Termination Rules"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 14",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Termination must be justified by a real and serious cause and respect the legal notice period (préavis)."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Termination Rules"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Termination must be justified by a real and serious cause and respect the legal notice period (préavis)."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Termination of the Employment Contract"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "Firing an employee must be justified by a real and serious reason. The employer must respect the legal notice period.",
+      "fr": "Termination must be justified by a real and serious cause and respect the legal notice period (préavis).",
+      "ar": "إعطال موظف لازم يكون مبني على سبب حقيقي و جدي. لموظف لازم يحترم فترة الإعطان اللي هي مشروطة بالقانون. باش يقدر يعطل موظف، لموظف لازم يتبع الإجراءات اللي هي محددة من قبل القانون."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 46,
+    "title": {
+      "ar": "",
+      "fr": "Article 14 bis - Abusive Dismissal"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Code du travail",
+    "law_number": "Code du travail - Article 14 bis",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "A dismissal is abusive if it has no legal or factual justification. In such cases, the employer may be required to pay damages."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Abusive Dismissal"
+        },
+        "content": {
+          "ar": "",
+          "fr": "A dismissal is abusive if it has no legal or factual justification. In such cases, the employer may be required to pay damages."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Code du travail",
+          "Termination of the Employment Contract"
+        ]
+      }
+    ],
+    "startup_law_2018": false,
+    "procedure_category": "cnss_employee",
+    "simplified_text": {
+      "en": "A dismissal without legal or factual justification is abusive. The employer may have to pay damages to the employee.",
+      "fr": "A dismissal is abusive if it has no legal or factual justification. In such cases, the employer may be required to pay damages.",
+      "ar": "1. الإقالة بدون سبب قانوني ولا حقيقي هي إقالة زايدة. \n2. لمشغول لازم يدي لعمّال تعويضات باش يعوضهم على الإقالة ديالهم."
+    },
+    "source_document": "entry5.json"
+  },
+  {
+    "document_id": 47,
+    "title": {
+      "ar": "startup_mark",
+      "fr": "Startup Law 2018 - startup_mark"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 3-6",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of startup mark articles in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "startup_mark",
+          "fr": ""
+        },
+        "content": {
+          "ar": "definition: علامة المؤسسة الناشئة\nvalidity_duration_years: 8\narticle_number: 4\nduration_months: 6\nconditions: ['استيفاء الشرطين الواردين بالنقطتين 4 و5 من الفصل 3']\narticle_number: 6\nname: لجنة إسناد علامة المؤسسة الناشئة\nresponsibilities: ['البَت في استجابة المطالب للحصول على علامة المؤسسة الناشئة', 'عرض المطالب التي تم فرزها', 'إصدار قرار الموافقة الأولية']\nمخالفة شروط النمو أو الموارد البشرية أو مجموع الأصول أو رقم المعاملات, عدم استيفاء الشروط الواردة بالفصل 3",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "startup_mark",
+          "مؤسسة ناشئة",
+          "علامة المؤسسة الناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "startup_mark"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "The Startup Label is valid for 8 years. A committee reviews applications. To get it, your company must be innovative with high growth potential. The label can be withdrawn if conditions are no longer met.",
+      "fr": "The Startup Label is valid for 8 years. A committee reviews applications. To get it, your company must be innovative with high growth potential. The label can be withdrawn if conditions are no longer met.",
+      "ar": "اللّيبل ديال ستارتآب صحيح لمدة 8 سنين. لجنة باش تفتيش الطلبات. باش تاخدها، شركتك لازم تكون مبتكرة و عندها إمكانيات نمو عالية. اللّيبل ممكن يتحط فPLACE موش صحيح لو الشروط ما بقاش متوفرة."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 48,
+    "title": {
+      "ar": "founder_rights",
+      "fr": "Startup Law 2018 - founder_rights"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article ",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "founder_rights",
+          "fr": ""
+        },
+        "content": {
+          "ar": "article_number: 8-9\nduration_years: 1\nrenewable: True\nmax_founders: 3\nemployer_objection: غير مسموح بالاعتراض\nconditions_for_small_private_employer: ترخيص مسبق وكتابي إذا كان عدد الأجراء أقل من 100\ntext: Full legal text of leave to create startup in Arabic...\nkeywords: ['leave', 'عطلة', 'مؤسسة ناشئة']\narticle_number: 10\nduration_years: 1\nmax_founders: 3\nsingle_grant_rule: True\ntext: Full legal text of startup grant in Arabic...\nkeywords: ['grant', 'منحة', 'مؤسسة ناشئة']\narticle_number: 11\neligibility_period_years: 3\nchoice_to_defer: True\ntext: Full legal text of young graduate programs in Arabic...\nkeywords: ['graduate', 'fresh graduate', 'program', 'مؤسسة ناشئة']",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Startup",
+          "founder_rights"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Founders can take 1-year leave from their job to create a startup (renewable once). Up to 3 founders can get a monthly grant. Fresh graduates can defer employment programs for 3 years.",
+      "fr": "Founders can take 1-year leave from their job to create a startup (renewable once). Up to 3 founders can get a monthly grant. Fresh graduates can defer employment programs for 3 years.",
+      "ar": "لما يدير مؤسسين باش يخلقو شركاتهم، نجم ياخدو عطلة سنة من شغلهم و يرجعو يخدمو تاني (يمكن تجديد مرة وحدة). يمكن ل3 مؤسسين ياخدو منحة شهرية. الخريجين الجدد نجم يرجعو برامج التوظيف لمدة 3 سنين."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 49,
+    "title": {
+      "ar": "ip_support",
+      "fr": "Startup Law 2018 - ip_support"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 12",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of IP support for startups in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "ip_support",
+          "fr": ""
+        },
+        "content": {
+          "ar": "national_and_international_registration: True\nevaluation_required: True\nصندوق تنمية المواصلات وتكنولوجيات المعلومات والاتصال, هبات وموارد أخرى",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "IP",
+          "براءات اختراع",
+          "مؤسسة ناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "ip_support"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "The state helps startups register patents nationally and internationally. Funding comes from the ICT Development Fund.",
+      "fr": "The state helps startups register patents nationally and internationally. Funding comes from the ICT Development Fund.",
+      "ar": "الدولة باش تساعد الشركات الناشئة تسجل براءات الاختراع على المستوى الوطني و الدولي. التمويل جا من صندوق تنمية تكنولوجيا المعلومات و الاتصال."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 50,
+    "title": {
+      "ar": "financial_incentives",
+      "fr": "Startup Law 2018 - financial_incentives"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 13-16,19",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of financial incentives in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "financial_incentives",
+          "fr": ""
+        },
+        "content": {
+          "ar": "tax_exemptions: True\ncoverage_of_social_security_contributions: True\ninvestment_reinvestment_exemptions: True\nصناديق ذات رأس مال تنمية, صناديق مساعدة على الانطلاق, صناديق مشتركة للتوظيف في رأس المال",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "tax",
+          "incentives",
+          "تمويل",
+          "مؤسسة ناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "financial_incentives"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Startups get tax exemptions, social security coverage, and investment incentives. Specialized funds support seed, early, and late-stage startups.",
+      "fr": "Startups get tax exemptions, social security coverage, and investment incentives. Specialized funds support seed, early, and late-stage startups.",
+      "ar": "الشركات الناشئة كايحصلو على استتناءات ضريبية، وتغطية أمن اجتماعي، وحوافز استثمارية. الأموال المتخصصة كاتدعم الشركات الناشئة في مرحلة البذرة، والمراحل الأولى والاخيرة. لازم يكونو مسجلين في RNE باش يقدو يستفيدو من هاد المزايا. نجم يقدو يخدو تمويل من الصندوق الوطني للضمان الاجتماعي CNSS، أو يقدو يخدو_api باش يطورو مشاريعهم. فاما برشا من الشركات الناشئة كاتخد патنت، وكاتسجل في SARL أو SA باش تزيد من فرص نجاحها. وقتاش كاتبدي الشركات الناشئة كاتخد قرار باش تنتج، كاتجيب استشارة من خبراء في المجال باش تنجح. كيفاش كاتعمل الشركات الناشئة باش تنجح؟ كاتعمل خطة عمل واضحة، وكاتجيب تمويل كافي، وكاتسجل في السجلات الرسمية باش تاخد патنت وAPI. موش كل الشركات الناشئة كاتنجح، ماكش فيها نجاح مضمون، ولكن كاتجيب فرص كبرى باش تطور وتنمو."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 51,
+    "title": {
+      "ar": "foreign_currency_account",
+      "fr": "Startup Law 2018 - foreign_currency_account"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 17",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of foreign currency account in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "foreign_currency_account",
+          "fr": ""
+        },
+        "content": {
+          "ar": "allowed_for_startups: True\nالمساهمة في رأس المال, إصدار رقاع قابلة للتحويل إلى أسهم, تسبقات في شكل حساب جار للشركاء\nfreedom_of_use: True",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "currency",
+          "حساب بالعملة الأجنبية",
+          "مؤسسة ناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "foreign_currency_account"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Startups can open foreign currency accounts and use them freely for capital contributions and shareholder advances.",
+      "fr": "Startups can open foreign currency accounts and use them freely for capital contributions and shareholder advances.",
+      "ar": "نجم لستارت آب mở حسابات بالعملة الأجنبية و يستعملوها بحرية باش يديروا مساهمات رأس المال و تقدمات المساهمين."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 52,
+    "title": {
+      "ar": "startup_guarantee",
+      "fr": "Startup Law 2018 - startup_guarantee"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 18",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of startup guarantee in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "startup_guarantee",
+          "fr": ""
+        },
+        "content": {
+          "ar": "mechanism_name: صندوق ضمان المؤسسات الناشئة\ncoverage: لضمان مساهمات شركات الاستثمار في رأس مال المؤسسات الناشئة\nموارد صندوق تنمية المواصلات وتكنولوجيات المعلومات والاتصال\nmanagement: الشركة التونسية للضمان",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "guarantee",
+          "صندوق ضمان",
+          "مؤسسة ناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "startup_guarantee"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "A Startup Guarantee Fund, managed by the Tunisian Guarantee Company, secures investments in startups. Funded by the ICT Development Fund.",
+      "fr": "A Startup Guarantee Fund, managed by the Tunisian Guarantee Company, secures investments in startups. Funded by the ICT Development Fund.",
+      "ar": "صندوق ضمان للاستارتيب، لمدير من قبل شركة الضمان التونسية، يامن الاستتمارات في الاستارتيب. ممول من قبل صندوق تنمية تكنولوجيا المعلومات والاتصالات."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 53,
+    "title": {
+      "ar": "customs_status",
+      "fr": "Startup Law 2018 - customs_status"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 20",
+    "related_laws": [],
+    "summary": {
+      "ar": "Full legal text of customs status for startups in Arabic...",
+      "fr": ""
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "customs_status",
+          "fr": ""
+        },
+        "content": {
+          "ar": "status: تعتبر المؤسسة الناشئة متعاملا اقتصاديا معتمدا",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "customs",
+          "الجمارك",
+          "مؤسسة ناشئة"
+        ],
+        "fr": [
+          "Startup",
+          "customs_status"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Labeled startups are automatically considered authorized economic operators for customs purposes.",
+      "fr": "Labeled startups are automatically considered authorized economic operators for customs purposes.",
+      "ar": "الشركات الناشئة المسمّاة باش تعتبر عملاً مشغلين اقتصاديين مخولين للغرض الجمركي."
+    },
+    "source_document": "entry6.json"
+  },
+  {
+    "document_id": 54,
+    "title": {
+      "ar": "",
+      "fr": "Dispositions générales"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Chapitre I",
+    "related_laws": [],
+    "summary": {
+      "ar": "تهدف هذه القانون إلى وضع إطار تحفيزي لإنشاء وتطوير الشركات الناشئة القائمة أساساً على الإبداع والابتكار واعتماد التقنيات الحديثة، وتحقيق قيمة مضافة قوية وقدرة تنافسية على المستويين الوطني والدولي.",
+      "fr": "La présente loi a pour objectif de mettre en place un cadre incitatif pour la création et le développement de Startups basées notamment sur la créativité, l’innovation et l’adoption des nouvelles tech"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Dispositions générales"
+        },
+        "content": {
+          "ar": "تهدف هذه القانون إلى وضع إطار تحفيزي لإنشاء وتطوير الشركات الناشئة القائمة أساساً على الإبداع والابتكار واعتماد التقنيات الحديثة، وتحقيق قيمة مضافة قوية وقدرة تنافسية على المستويين الوطني والدولي.",
+          "fr": "La présente loi a pour objectif de mettre en place un cadre incitatif pour la création et le développement de Startups basées notamment sur la créativité, l’innovation et l’adoption des nouvelles technologies, et réalisant une forte valeur ajoutée et une compétitivité aux niveaux national et international."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Startup",
+          "création",
+          "innovation",
+          "entrepreneuriat",
+          "قانون المؤسسات الناشئة"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "This law creates a framework to encourage startups in Tunisia based on creativity, innovation, and new technologies, aiming for national and international competitiveness.",
+      "fr": "La présente loi a pour objectif de mettre en place un cadre incitatif pour la création et le développement de Startups basées notamment sur la créativité, l’innovation et l’adoption des nouvelles technologies, et réalisant une forte valeur ajoutée et une compétitivité aux niveaux national et international.",
+      "ar": "هاد القانون خلق إطار باش يشجعスタرتآب في تونس على أساس الإبداع و الإبتكار و التكنولوجيا الجديدة, باش ينجحو في المنافسة على المستوى الوطني و الدولي, و لازم نجم نطور راسنا في مجال RNE و CNSS و الشركات بحال SARL و SA, و نعمل على تطوير API و نظام патنتة patente باش نرفع من القدرة على المنافسة."
+    },
+    "source_document": "entry7.json"
+  },
+  {
+    "document_id": 55,
+    "title": {
+      "ar": "",
+      "fr": "Définition d'une Startup"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 2",
+    "related_laws": [],
+    "summary": {
+      "ar": "تعتبر الشركة الناشئة وفقًا لأحكام هذا القانون، كل شركة تجارية تم تأسيسها وفقًا للتشريعات السارية، وحصلت على علامة الشركة الناشئة وفقًا للشروط المنصوص عليها في هذا القانون.",
+      "fr": "Au sens de la présente loi, est considérée comme Startup, toute société commerciale constituée conformément à la législation en vigueur, ayant obtenu le label Startup conformément aux conditions prévu"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Définition d'une Startup"
+        },
+        "content": {
+          "ar": "تعتبر الشركة الناشئة وفقًا لأحكام هذا القانون، كل شركة تجارية تم تأسيسها وفقًا للتشريعات السارية، وحصلت على علامة الشركة الناشئة وفقًا للشروط المنصوص عليها في هذا القانون.",
+          "fr": "Au sens de la présente loi, est considérée comme Startup, toute société commerciale constituée conformément à la législation en vigueur, ayant obtenu le label Startup conformément aux conditions prévues par la présente loi."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Startup",
+          "définition",
+          "société commerciale",
+          "مؤسسة ناشئة"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "A Startup is any commercial company that has obtained the official Startup Label according to this law's requirements.",
+      "fr": "Au sens de la présente loi, est considérée comme Startup, toute société commerciale constituée conformément à la législation en vigueur, ayant obtenu le label Startup conformément aux conditions prévues par la présente loi.",
+      "ar": "الستارتآب هي أي شركة تجارية لازم تاخد اللّيبل الرّسمي ديال RNE حسب الشّروط ديال هاد القانون."
+    },
+    "source_document": "entry7.json"
+  },
+  {
+    "document_id": 56,
+    "title": {
+      "ar": "",
+      "fr": "Conditions d'obtention du label Startup"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 3",
+    "related_laws": [],
+    "summary": {
+      "ar": "يتم منح علامة الشركة الناشئة للشركة التي تستوفي الشروط التالية: 1) ألا يزيد عمرها عن ثماني سنوات منذ تاريخ تأسيسها؛ 2) ألا تتجاوز مواردها البشرية، وإجمالي أصولها، وإيراداتها السنوية الحدود المحددة بمو",
+      "fr": "Le label Startup est octroyé à la société qui remplit les conditions suivantes : 1) Son existence ne dépasse pas huit ans depuis la date de sa constitution ; 2) Ses ressources humaines, le total de so"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Conditions d'obtention du label Startup"
+        },
+        "content": {
+          "ar": "يتم منح علامة الشركة الناشئة للشركة التي تستوفي الشروط التالية: 1) ألا يزيد عمرها عن ثماني سنوات منذ تاريخ تأسيسها؛ 2) ألا تتجاوز مواردها البشرية، وإجمالي أصولها، وإيراداتها السنوية الحدود المحددة بموجب مرسوم؛ 3) أن يكون رأس مالها مملوكًا لأكثر من ثلثيه من قبل أشخاص طبيعيين أو شركات استثمارية؛ 4) أن يكون نموذجها الاقتصادي مبتكرًا، خصوصًا تقنيًا؛ 5) أن تكون نشاطاتها ذات إمكانات نمو اقتصادي عالية. تمنح العلامة الحق في الاستفادة من التحفيزات والمزايا المنصوص عليها في القانون.",
+          "fr": "Le label Startup est octroyé à la société qui remplit les conditions suivantes : 1) Son existence ne dépasse pas huit ans depuis la date de sa constitution ; 2) Ses ressources humaines, le total de son actif et son chiffre d’affaires annuel ne dépassent pas des plafonds fixés par décret ; 3) Son capital est détenu à plus de deux tiers par des personnes physiques ou des sociétés d’investissement ; 4) Son modèle économique est à forte dimension innovante, notamment technologique ; 5) Son activité est à fort potentiel de croissance économique. Le label ouvre droit aux encouragements et incitations prévus par la loi."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "label Startup",
+          "conditions",
+          "innovation",
+          "incitations",
+          "علامة الشركة الناشئة"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "To get the Startup Label: company must be under 8 years old, under 100 employees, revenue under 15M dinars, 2/3 owned by individuals or investors, innovative business model, and high growth potential.",
+      "fr": "Le label Startup est octroyé à la société qui remplit les conditions suivantes : 1) Son existence ne dépasse pas huit ans depuis la date de sa constitution ; 2) Ses ressources humaines, le total de son actif et son chiffre d’affaires annuel ne dépassent pas des plafonds fixés par décret ; 3) Son capital est détenu à plus de deux tiers par des personnes physiques ou des sociétés d’investissement ; 4) Son modèle économique est à forte dimension innovante, notamment technologique ; 5) Son activité est à fort potentiel de croissance économique. Le label ouvre droit aux encouragements et incitations prévus par la loi.",
+      "ar": "باش تاخد اللّيبل ديال Startup, الشركة لازم تكون تحت 8 سنين, تحت 100 موضّف, الدّخل تحت 15 مليون دينار, 2/3 مملوكة من لفرد أو لمستثمر, نموذج عمل مبتكر, و إمكانية نمو عالية."
+    },
+    "source_document": "entry7.json"
+  },
+  {
+    "document_id": 57,
+    "title": {
+      "ar": "",
+      "fr": "Pré-label et création"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Loi Startup 2018",
+    "law_number": "2018-20 Article 4",
+    "related_laws": [],
+    "summary": {
+      "ar": "يمكن لأي شخص طبيعي يرغب في إنشاء شركة ناشئة طلب علامة مؤقتة لمدة ستة أشهر إذا استوفى شروط الابتكار وإمكانات النمو. الحصول على العلامة النهائية مرتبط بتأسيس الشركة واستيفاء الشروط الأخرى للمادة 3.",
+      "fr": "Toute personne physique désirant créer une Startup peut solliciter un Pré-label d’une durée de six mois si elle satisfait aux conditions d’innovation et de potentiel de croissance. L’obtention du labe"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Pré-label et création"
+        },
+        "content": {
+          "ar": "يمكن لأي شخص طبيعي يرغب في إنشاء شركة ناشئة طلب علامة مؤقتة لمدة ستة أشهر إذا استوفى شروط الابتكار وإمكانات النمو. الحصول على العلامة النهائية مرتبط بتأسيس الشركة واستيفاء الشروط الأخرى للمادة 3.",
+          "fr": "Toute personne physique désirant créer une Startup peut solliciter un Pré-label d’une durée de six mois si elle satisfait aux conditions d’innovation et de potentiel de croissance. L’obtention du label final est subordonnée à la constitution de la société et au respect des autres conditions de l’article 3."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Pré-label",
+          "création Startup",
+          "innovation",
+          "علامة مؤقتة",
+          "إنشاء شركة ناشئة"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Anyone wanting to create a startup can get a Pre-Label for 6 months if they meet innovation and growth criteria. The full label requires actually creating the company.",
+      "fr": "Toute personne physique désirant créer une Startup peut solliciter un Pré-label d’une durée de six mois si elle satisfait aux conditions d’innovation et de potentiel de croissance. L’obtention du label final est subordonnée à la constitution de la société et au respect des autres conditions de l’article 3.",
+      "ar": "أي حد كيفاش باش يخلق شركة ستارت آب نجم ياخد برشا пре-لابل لمدة 6 أشهر لو كان في مستوى معايير الابتكار و التنمية. اللابل الكامل لازم تعمل شركتك باش تسجلها و تاخد الرني و تسجل في السناس و تاخد باتنت و تسجل في Api و تاخد رخصة تجارية باش تمشي مع شركة سارل أو سا."
+    },
+    "source_document": "entry7.json"
+  },
+  {
+    "document_id": 58,
+    "title": {
+      "ar": "",
+      "fr": "Guide Startups Tunisie"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Guide officiel",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Guide complet sur les startups en Tunisie: definitions, label, avantages et procedures."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Introduction"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Les startups constituent un atout majeur pour l’économie tunisienne. L’État vise à encourager leur création et développement."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Glossaire"
+        },
+        "content": {
+          "ar": "",
+          "fr": "- Circulaire: Document adressé par une autorité administrative pour expliciter la réglementation.\n- Décret: Acte réglementaire ou individuel pris par le président ou le Premier ministre.\n- Fonds d’amorçage: Financement des dépenses préalables à la création d'une entreprise.\n- FCPR: Fonds commun de placement à risque pour bénéficier d’avantages fiscaux.\n- Label Startup: Label de mérite pour les sociétés tunisiennes répondant aux critères de labélisation.\n- Pré-label Startup: Attribué aux fondateurs n’ayant pas encore créé leur société pour préparer l’obtention du label.\n- Scalabilité: Capacité d’accroître rapidement le volume d’affaires tout en restant rentable.\n- Proof of Concept: Vérification que l’idée ou le projet peut fonctionner.\n- Pitch: Présentation condensée d’un projet pour convaincre un interlocuteur."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Startup Act - Cadre général"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Créé en avril 2018, pour promouvoir et faciliter le lancement et le développement des startups en Tunisie.\n- loi: Loi N°2018-20 du 17 avril 2018 relative aux Startups\n- décret: Décret N°2018-840 du 11 octobre 2018\n- circulaire: Circulaires BCT N°2019-01 et N°2019-02"
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Label Startup"
+        },
+        "content": {
+          "ar": "",
+          "fr": "- Indépendance: Capital détenu à plus de 2/3 par personnes physiques, organismes d’investissement ou startups étrangères.\n- Scalabilité: Marché cible large, solution adaptée, PoC, équipe capable de mise en œuvre.\n- Innovation: Modèle économique innovant apportant une solution différenciée.\n- Taille: Effectif ≤ 100, total bilan ou CA annuel ≤ 15 millions de dinars.\n- Âge de la société: ≤ 8 ans depuis constitution juridique.\nPréparation du dossier\nSoumission via portail startup\nVérification des documents\nÉvaluation par Collège Startup\nObtention du pré-label puis label\nExtrait RNE\nCarte d’identification fiscale\nCopie des statuts et registre des actionnaires\nAttestation CNSS avec liste des salariés\nCopie états financiers de l’année précédant le dépôt"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Avantages du Startup Act"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Bourse Startup : 1 000 à 5 000 DT net/mois\nCIVP et programmes d’emploi\nCongé pour création de startup\nProtection brevets\nAutres incitations financières"
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Timeline et sessions de labélisation"
+        },
+        "content": {
+          "ar": "",
+          "fr": ""
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Startup",
+          "Guide",
+          "Label",
+          "Tunisie"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Complete startup guide for Tunisia: what is a startup, how to get the Label, benefits (monthly grant 1000-5000 DT, tax exemption, patent coverage, leave to create startup), required documents (RNE extract, tax ID, statutes, CNSS attestation), and application process via startupact.tn portal.",
+      "fr": "Les startups constituent un atout majeur pour l’économie tunisienne. L’État vise à encourager leur création et développement.\n- Circulaire: Document adressé par une autorité administrative pour expliciter la réglementation.\n- Décret: Acte réglementaire ou individuel pris par le président ou le Premier ministre.\n- Fonds d’amorçage: Financement des dépenses préalables à la création d'une entreprise.\n- FCPR: Fonds commun de placement à risque pour bénéficier d’avantages fiscaux.\n- Label Startup: Label de mérite pour les sociétés tunisiennes répondant aux critères de labélisation.\n- Pré-label Startup: Attribué aux fondateurs n’ayant pas encore créé leur société pour préparer l’obtention du label.\n- Scalabilité: Capacité d’accroître rapidement le volume d’affaires tout en restant rentable.\n- Proof of Concept: Vérification que l’idée ou le projet peut fonctionner.\n- Pitch: Présentation condensée d’un projet pour convaincre un interlocuteur.\nCréé en avril 2018, pour promouvoir et faciliter le lancement et le développement des startups en Tunisie.\n- loi: Loi N°2018-20 du 17 avril 2018 relative aux Startups\n- décret: Décret N°2018-840 du 11 octobre 2018\n- circulaire: Circulaires BCT N°2019-01 et N°2019-02\n- Indépendance: Capital détenu à plus de 2/3 par personnes physiques, organismes d’investissement ou startups étrangères.\n- Scalabilité: Marché cible large, solution adaptée, PoC, équipe capable de mise en œuvre.\n- Innovation: Modèle économique innovant apportant une solution différenciée.\n- Taille: Effectif ≤ 100, total bilan ou CA annuel ≤ 15 millions de dinars.\n- Âge de la société: ≤ 8 ans depuis constitution juridique.\nPréparation du dossier\nSoumission via portail startup\nVérification des documents\nÉvaluation par Collège Startup\nObtention du pré-label puis label\nExtrait RNE\nCarte d’identification fiscale\nCopie des statuts et registre des actionnaires\nAttestation CNSS avec liste des salariés\nCopie états financiers de l’année précédant le dépôt\nBourse Startup : 1 000 à 5 000 DT net/mois\nCIVP et programmes d’emploi\nCongé pour création de startup\nProtection brevets\nAutres incitations financières",
+      "ar": "دليل كامل لبداية مشروع ف تونس: آش هي بداية مشروع، كيفاش نجم ناخد اللقب، الفوائد (منحة شهرية 1000-5000 دينار، استثناء ضريبي، تغطية براءة اختراع، عطلة لإنشاء بداية مشروع)، الوثائق المطلوبة (استخراج RNE، رقم ضريبي، لوائح، شهادة CNSS)، وعملية التقديم من خلال بوابة startupact.tn.\n1. باش تحصل على اللقب، لازم تعمل استخراج RNE و تسجل رقم ضريبي و لوائح و شهادة CNSS.\n2. وقتاش تتمشي لتسجل، لازم تجيب الوثائق المطلوبة كلها باش تتم能 تسجل بسهولة.\n3. فاما برشا فوائد لبداية مشروع، زي منحة شهرية 1000-5000 دينار و استثناء ضريبي و تغطية براءة اختراع و عطلة لإنشاء بداية مشروع.\n4. كيفاش نجم ناخد اللقب، لازم نتبع الخطوات التالية: تسجيل في بوابة startupact.tn، و ملء الاستمارة، و إرسال الوثائق المطلوبة.\n5. لازم تعرف أنك نجم تختار بين أنواع الشركات المختلفة، زي SARL، SA، و Api، و حتا تاخد патنت باش تprotect مشروعك."
+    },
+    "source_document": "entry8.json"
+  },
+  {
+    "document_id": 59,
+    "title": {
+      "ar": "",
+      "fr": "Ecosysteme Startup Tunisie - Donnees structurees"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Donnees structurees",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Definition startup, cadre legal, procedure label, avantages financiers/fiscaux, obligations."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "startup_definition"
+        },
+        "content": {
+          "ar": "",
+          "fr": "characteristics: [\"Existence limitée dans le temps\", \"Activité innovante\", \"Reproductible à plus grande échelle\", \"Activité avec fort potentiel de croissance\"]\ntunisia_ecosystem: {\"year\": 2022, \"total_startups\": 1081}"
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "legal_framework"
+        },
+        "content": {
+          "ar": "",
+          "fr": "startup_act: {\"law\": \"n°2018-20 du 17 avril 2018\", \"decree\": \"n°2018-840 du 11 octobre 2018\", \"central_bank_circulars\": [\"n°2019-01\", \"n°2019-02\"]}\nlabel_startup: {\"validity_years\": 8, \"eligibility_conditions\": {\"max_age_years\": 8, \"max_employees\": 100, \"max_assets_or_revenue_dinars\": 15000000, \"ownership_structure\": \">= 2/3 par personnes physiques, sociétés de capital risque, fonds d’amorçage, organismes d’investissement ou startups étrangères\", \"innovative_business_model\": true, \"high_growth_potential\": true}}"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "label_procedure"
+        },
+        "content": {
+          "ar": "",
+          "fr": "application: {\"type\": [\"personne physique\", \"société\"], \"portal_url\": \"https://www.startupact.tn/accueil.html\", \"review_period_days\": 30, \"prelabel_for_physical_persons\": {\"duration_months\": 6, \"required_to_create_company\": true, \"response_time_days\": 3}}\nlabelling_committee: {\"members_count\": 9, \"appointment\": {\"authority\": \"chef du gouvernement\", \"proposal_by\": \"ministre chargé de l’économie numérique\", \"term_years\": 3, \"renewable_once\": true}, \"composition\": {\"president\": \"expérience en gestion et direction, compétence reconnue en investissement et innovation\", \"public_sector\": 2, \"private_sector\": 4, \"experts\": 2}, \"decision_rule\": \"minimum 5 avis favorables pour octroi\"}"
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "financial_and_fiscal_benefits"
+        },
+        "content": {
+          "ar": "",
+          "fr": "entrepreneurs: {\"conge_creation_startup\": \"1 an, renouvelable une seule fois\", \"startup_grant\": {\"duration\": \"1 an\", \"monthly_amount_dinars\": [1000, 5000]}, \"patent_fees_coverage\": true, \"corporate_tax_exemption\": true, \"social_contributions_coverage\": true, \"special_foreign_currency_account\": {\"allowed\": true, \"max_annual_allocation_dinars\": 100000}, \"startup_guarantee_fund_access\": true, \"capital_gains_tax_exemption\": true, \"simplified_auditor_selection\": true, \"multiple_convertible_bond_issuances_allowed\": true}"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "obligations_for_label"
+        },
+        "content": {
+          "ar": "",
+          "fr": "growth_objectives: [{\"after_years\": 3, \"min_employees\": 10, \"min_assets_or_revenue_dinars\": 300000}, {\"after_years\": 5, \"min_employees\": 30, \"min_assets_or_revenue_dinars\": 1000000}]\naccounting_compliance: {\"required\": true, \"reporting_deadline\": \"31 mars de l’année suivant l’exercice\"}\nnotify_changes: {\"required\": true, \"deadline_months\": 1}\nnon_compliance: {\"procedure\": \"procès-verbal après audition du représentant légal\", \"label_removal_by\": \"ministre chargé de l’économie numérique\", \"committee_advice_required\": true}"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [],
+        "fr": [
+          "Startup",
+          "Label",
+          "Ecosysteme",
+          "Tunisie"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Tunisia had 1081 startups in 2022. Label conditions: under 8 years old, max 100 employees, max 15M dinars revenue, 2/3 owned by individuals/investors, innovative model. Benefits: 1-year creation leave, monthly grant (1000-5000 DT), patent coverage, tax exemption, foreign currency account (up to 100K DT/year). Growth obligations: 10 employees and 300K DT after 3 years, 30 employees and 1M DT after 5 years.",
+      "fr": "characteristics: [\"Existence limitée dans le temps\", \"Activité innovante\", \"Reproductible à plus grande échelle\", \"Activité avec fort potentiel de croissance\"]\ntunisia_ecosystem: {\"year\": 2022, \"total_startups\": 1081}\nstartup_act: {\"law\": \"n°2018-20 du 17 avril 2018\", \"decree\": \"n°2018-840 du 11 octobre 2018\", \"central_bank_circulars\": [\"n°2019-01\", \"n°2019-02\"]}\nlabel_startup: {\"validity_years\": 8, \"eligibility_conditions\": {\"max_age_years\": 8, \"max_employees\": 100, \"max_assets_or_revenue_dinars\": 15000000, \"ownership_structure\": \">= 2/3 par personnes physiques, sociétés de capital risque, fonds d’amorçage, organismes d’investissement ou startups étrangères\", \"innovative_business_model\": true, \"high_growth_potential\": true}}\napplication: {\"type\": [\"personne physique\", \"société\"], \"portal_url\": \"https://www.startupact.tn/accueil.html\", \"review_period_days\": 30, \"prelabel_for_physical_persons\": {\"duration_months\": 6, \"required_to_create_company\": true, \"response_time_days\": 3}}\nlabelling_committee: {\"members_count\": 9, \"appointment\": {\"authority\": \"chef du gouvernement\", \"proposal_by\": \"ministre chargé de l’économie numérique\", \"term_years\": 3, \"renewable_once\": true}, \"composition\": {\"president\": \"expérience en gestion et direction, compétence reconnue en investissement et innovation\", \"public_sector\": 2, \"private_sector\": 4, \"experts\": 2}, \"decision_rule\": \"minimum 5 avis favorables pour octroi\"}\nentrepreneurs: {\"conge_creation_startup\": \"1 an, renouvelable une seule fois\", \"startup_grant\": {\"duration\": \"1 an\", \"monthly_amount_dinars\": [1000, 5000]}, \"patent_fees_coverage\": true, \"corporate_tax_exemption\": true, \"social_contributions_coverage\": true, \"special_foreign_currency_account\": {\"allowed\": true, \"max_annual_allocation_dinars\": 100000}, \"startup_guarantee_fund_access\": true, \"capital_gains_tax_exemption\": true, \"simplified_auditor_selection\": true, \"multiple_convertible_bond_issuances_allowed\": true}\ngrowth_objectives: [{\"after_years\": 3, \"min_employees\": 10, \"min_assets_or_revenue_dinars\": 300000}, {\"after_years\": 5, \"min_employees\": 30, \"min_assets_or_revenue_dinars\": 1000000}]\naccounting_compliance: {\"required\": true, \"reporting_deadline\": \"31 mars de l’année suivant l’exercice\"}\nnotify_changes: {\"required\": true, \"deadline_months\": 1}\nnon_compliance: {\"procedure\": \"procès-verbal après audition du représentant légal\", \"label_removal_by\": \"ministre chargé de l’économie numérique\", \"committee_advice_required\": true}",
+      "ar": "تونس فيها 1081 ستارتب في 2022. شروط اللّيبل: تحت 8 سنين، максимوم 100 موضّف، максимوم 15 مليون دينار دخل، 2/3 ملكية لفرد/مستثمر، نموذج مبتكر. الفوايدة: اجازة إنشاء لمدة سنة، منحة شهرية (1000-5000 دينار)، تغطية البطاقة، إعفاء ضريبي، حساب عملة أجنبية (حتى 100 ألف دينار في السنة). التزامات النمو: 10 موضّفين و300 ألف دينار بعد 3 سنين، 30 موضّف و1 مليون دينار بعد 5 سنين. لازم تكون ليكم RNE باش تتمشيو تسجّلو في CNSS و تاخدو патنت و تسجّلو في SARL أو SA و تاخدو API و патنت و تديروا حساب في البنك باش تاخدو فلوسكوم من المنحة و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقلّصو من الضرايب و تاخدو إعفاء ضريبي و تقدر تفتحو حساب في البنك باش تاخدو فلوسكوم من المنحة و تقلّصو من الضرايب و تاخدو إعفاء ضريبي و تديروا حساب في البنك باش تاخدو فلوسكوم من المنحة و تقلّصو من الضرايب و تاخدو إعفاء ضريبي و تديروا حساب في البنك باش تاخدو فلوسكوم من المنحة و تقلّصو من الضرايب و تاخدو إعفاء ضريبي و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عملة أجنبية في البنك و تاخدو منحة شهرية و تقدر تفتحو حساب عمل"
+    },
+    "source_document": "entry9.json"
+  },
+  {
+    "document_id": 60,
+    "title": {
+      "ar": "برنامج المؤسسات الناشئة تونس",
+      "fr": "Tunis Startup - Programme Startup Tunisia"
+    },
+    "date": "",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Programme gouvernemental",
+    "law_number": "",
+    "related_laws": [],
+    "summary": {
+      "ar": "برنامج المؤسسات الناشئة: الأهداف والمكونات والمؤشرات",
+      "fr": "Programme Startup Tunisia: objectifs, composantes (Act/Invest/Empower), indicateurs."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Introduction"
+        },
+        "content": {
+          "ar": "برنامج المؤسسات الناشئة يندرج ضمن المخطط الوطني الإستراتيجي - تونس الرقمية 2020 - وهو برنامج متواصل ضمن الإستراتيجية الوطنية للتحول الرقمي (2021-2025).",
+          "fr": "برنامج المؤسسات الناشئة يندرج ضمن المخطط الوطني الإستراتيجي - تونس الرقمية 2020 - وهو برنامج متواصل ضمن الإستراتيجية الوطنية للتحول الرقمي (2021-2025)."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "",
+          "fr": "Objectifs"
+        },
+        "content": {
+          "ar": "",
+          "fr": "تمكين المؤسسات الناشئة التونسية من النجاح على المستويين الإقليمي والعالمي\nجعل تونس قطبا جامعاً للمؤسسات المجددة عبر جذب الباعثين والشركات من إفريقيا وحوض المتوسط للإنتصاب في تونس\nجعل تونس رائدة في مجال التجديد\nخلق مواطن شغل ذات قيمة مضافة عالية لفائدة التونسيين أصحاب الشهادات\nتطوير مساهمة التجديد التكنولوجي في النمو الاقتصادي وخصوصا في الناتج الداخلي الخام\nتحسين صورة تونس وتعزيز ثقة المستثمرين الأجانب في الموقع التونسي\nإحياء الأمل لدى الشباب والتصدي لهجرة العقول وخلق الثروة\nإنشاء 1000 مؤسسة ناشئة بمعدل 200 مؤسسة سنوياً\nإحداث 10000 موطن شغل\nتحقيق 1 مليار دينار كرقم معاملات تراكمي\nالنجاح في بعث مؤسسة ناشئة تونسية عملاقة وذات بعد عالمي (Licorne)"
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "",
+          "fr": "Composantes du programme"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Startup Act: Cadre légal pour encourager l'innovation et soutenir les startups tunisiennes avec le Label Startup. Toutes les démarches administratives passent par le portail électronique des startups.\nStartup Invest: Système d'investissement spécialisé pour les startups via Fonds de Fonds et fonds d'investissement spécialisés couvrant toutes les étapes (Seed, Early, Late Stage).\nStartup Empower: Programme d'accompagnement et de soutien direct aux startups et aux structures d'accompagnement.\nTalent Pool: Développer un vivier de compétences en programmation et innovation, soutenir l'accès des meilleurs jeunes aux écoles et universités mondiales.\nAccès aux marchés: Programmes pour faciliter l'accès aux marchés régionaux et internationaux et promouvoir la visibilité des startups tunisiennes.\nClusters d'innovation: Identification des spécialités technologiques à fort potentiel et création de clusters régionaux pour l'innovation.\nAncrage - Inclusion: Créer des espaces adaptés pour ancrer l'écosystème startup dans toutes les régions, restructurer les technopoles et cyberparks existants."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "",
+          "fr": "Cible et indicateurs"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Créer 1000 startups (200/an)\nCréer 10 000 emplois\nAtteindre 1 milliard DT en chiffre d'affaires cumulatif\nLancer une startup tunisienne de type Licorne avec portée mondiale"
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "",
+          "fr": "Portail officiel"
+        },
+        "content": {
+          "ar": "Toutes les démarches et informations disponibles sur le portail électronique des startups: www.startupAct.tn",
+          "fr": "Toutes les démarches et informations disponibles sur le portail électronique des startups: www.startupAct.tn"
+        }
+      },
+      {
+        "section_id": 6,
+        "title": {
+          "ar": "",
+          "fr": "Références légales"
+        },
+        "content": {
+          "ar": "",
+          "fr": "loi: Loi N°20 de 2018 du 17 avril 2018 relative aux startups\ndécret: Décret gouvernemental fixant les conditions, procédures et délais pour l'octroi et le retrait du Label Startup\ndécision: Décision du Chef du Gouvernement du 12 février 2019 pour nomination des membres de la commission d'attribution du Label Startup"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "مؤسسة ناشئة",
+          "برنامج",
+          "تونس"
+        ],
+        "fr": [
+          "Startup Tunisia",
+          "Programme",
+          "Startup Act",
+          "Startup Invest"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "National program to support startups in Tunisia. Goals: create 1000 startups (200/year), 10,000 jobs, 1 billion DT revenue, and launch a Tunisian unicorn. Three pillars: Startup Act (legal framework), Startup Invest (funding at all stages), Startup Empower (grants and support). All services available at www.startupAct.tn.",
+      "fr": "برنامج المؤسسات الناشئة يندرج ضمن المخطط الوطني الإستراتيجي - تونس الرقمية 2020 - وهو برنامج متواصل ضمن الإستراتيجية الوطنية للتحول الرقمي (2021-2025).\nتمكين المؤسسات الناشئة التونسية من النجاح على المستويين الإقليمي والعالمي\nجعل تونس قطبا جامعاً للمؤسسات المجددة عبر جذب الباعثين والشركات من إفريقيا وحوض المتوسط للإنتصاب في تونس\nجعل تونس رائدة في مجال التجديد\nخلق مواطن شغل ذات قيمة مضافة عالية لفائدة التونسيين أصحاب الشهادات\nتطوير مساهمة التجديد التكنولوجي في النمو الاقتصادي وخصوصا في الناتج الداخلي الخام\nتحسين صورة تونس وتعزيز ثقة المستثمرين الأجانب في الموقع التونسي\nإحياء الأمل لدى الشباب والتصدي لهجرة العقول وخلق الثروة\nإنشاء 1000 مؤسسة ناشئة بمعدل 200 مؤسسة سنوياً\nإحداث 10000 موطن شغل\nتحقيق 1 مليار دينار كرقم معاملات تراكمي\nالنجاح في بعث مؤسسة ناشئة تونسية عملاقة وذات بعد عالمي (Licorne)\nStartup Act: Cadre légal pour encourager l'innovation et soutenir les startups tunisiennes avec le Label Startup. Toutes les démarches administratives passent par le portail électronique des startups.\nStartup Invest: Système d'investissement spécialisé pour les startups via Fonds de Fonds et fonds d'investissement spécialisés couvrant toutes les étapes (Seed, Early, Late Stage).\nStartup Empower: Programme d'accompagnement et de soutien direct aux startups et aux structures d'accompagnement.\nTalent Pool: Développer un vivier de compétences en programmation et innovation, soutenir l'accès des meilleurs jeunes aux écoles et universités mondiales.\nAccès aux marchés: Programmes pour faciliter l'accès aux marchés régionaux et internationaux et promouvoir la visibilité des startups tunisiennes.\nClusters d'innovation: Identification des spécialités technologiques à fort potentiel et création de clusters régionaux pour l'innovation.\nAncrage - Inclusion: Créer des espaces adaptés pour ancrer l'écosystème startup dans toutes les régions, restructurer les technopoles et cyberparks existants.\nCréer 1000 startups (200/an)\nCréer 10 000 emplois\nAtteindre 1 milliard DT en chiffre d'affaires cumulatif\nLancer une startup tunisienne de type Licorne avec portée mondiale\nToutes les démarches et informations disponibles sur le portail électronique des startups: www.startupAct.tn\nloi: Loi N°20 de 2018 du 17 avril 2018 relative aux startups\ndécret: Décret gouvernemental fixant les conditions, procédures et délais pour l'octroi et le retrait du Label Startup\ndécision: Décision du Chef du Gouvernement du 12 février 2019 pour nomination des membres de la commission d'attribution du Label Startup",
+      "ar": "برنامج وطني باش دعم الشركات الناشئة في تونس. الهدف: خلق 1000 شركة ناشئة (200 كل عام), 10 آلاف شغل, دخل 1 مليار دينار تونسي, و إطلاق وحيد القرن التونسي. ثلاث ركائز: Startup Act (الأساس القانوني), Startup Invest (تمويل في جميع المراحل), Startup Empower (منح ودعم). جميع الخدمات متاحة على www.startupAct.tn باش تسجل في RNE و تاخد патنت و تسجل في CNSS و تختار بين SARL و SA و تنجح في API. لازم تعمل هاد الخيارات باش تنجح في مشروعك. نجم تنجح لو تمشي على هاد الطريق و تجيب فكرة ناجحة. وقتاش تبدا؟ برشا ناس سجلوا و نجحوا. فاما فرص كثيرة باش تنجح أنتا. موش هناك عائق باش تمنعك من النجاح. ماكش هناك حاجة تقف في طريقك. باش تنجح لازم تعمل جهد و تسجل و تنجح. \n1. تسجل في RNE \n2. تاخد патنت \n3. تسجل في CNSS \n4. تختار بين SARL و SA \n5. تنجح في API"
+    },
+    "source_document": "entry10.json"
+  },
+  {
+    "document_id": 61,
+    "title": {
+      "ar": "أمر حكومي عدد 840 لسنة 2018",
+      "fr": "Arrêté gouvernemental n°840 de 2018"
+    },
+    "date": "11-10-2018",
+    "author": {
+      "ar": "سمِّي السيد رشاد بن رمضان، رئيس ديوان وزير التكوين المهني والتشغيل",
+      "fr": "Monsieur Rachad Ben Ramadhan, Directeur de cabinet du Ministre de la Formation Professionnelle et de l’Emploi"
+    },
+    "type": "Arrêté gouvernemental / Government Order",
+    "law_number": "840/2018",
+    "related_laws": [
+      "20/2018 - Loi Startup",
+      "30/1960 - Code de la sécurité sociale",
+      "51/2007 - Code du travail",
+      "36/2016 - Procédures collectives",
+      "114/1989 - Impôt sur le revenu et IS",
+      "66/2017 - Loi de finances 2018"
+    ],
+    "summary": {
+      "ar": "يحدد شروط وإجراءات وآجال إسناد وسحب علامة المؤسسة الناشئة، ويضبط التنظيم وصلاحيات لجنة إسناد العلامة، ويحدد انتفاع المؤسسات الناشئة بالتشجيعات والمنح والامتيازات، وفق قانون المؤسسات الناشئة 20 لسنة 2018.",
+      "fr": "Définit les conditions, procédures et délais pour l’octroi et le retrait du label Startup, organise les attributions du comité d’attribution, et précise les avantages, subventions et incitations pour les startups, selon la loi Startup n°20 de 2018."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "أحكام عامة",
+          "fr": "Dispositions générales"
+        },
+        "content": {
+          "ar": "يحدد الشروط والإجراءات المتعلقة بإسناد وسحب علامة المؤسسة الناشئة وتنظيم اللجنة.",
+          "fr": "Définit les conditions et procédures pour l’octroi et le retrait du label Startup et l’organisation du comité."
+        }
+      },
+      {
+        "section_id": 2,
+        "title": {
+          "ar": "شروط وإجراءات إسناد وسحب العلامة",
+          "fr": "Conditions et procédures d’attribution et de retrait du label"
+        },
+        "content": {
+          "ar": "يتضمن أسقف الموارد البشرية والأصول ورقم المعاملات السنوي، طلبات الحصول على العلامة، آليات الموافقة والرفض، والإجراءات الإلكترونية.",
+          "fr": "Inclut plafonds de ressources humaines, actifs et chiffre d’affaires, procédures de demande, approbation et rejet, et procédures électroniques."
+        }
+      },
+      {
+        "section_id": 3,
+        "title": {
+          "ar": "تنظيم وصلاحيات اللجنة",
+          "fr": "Organisation et attributions du comité"
+        },
+        "content": {
+          "ar": "تتألف اللجنة من أعضاء من القطاعين العام والخاص، مع تحديد مهام الرئيس، أعضاء اللجنة، وسرية المعلومات وتضارب المصالح.",
+          "fr": "Le comité comprend des membres des secteurs public et privé, avec définition des rôles du président, des membres, confidentialité et conflits d’intérêts."
+        }
+      },
+      {
+        "section_id": 4,
+        "title": {
+          "ar": "الانتفاع بالتشجيعات والمنح والامتيازات",
+          "fr": "Accès aux subventions, avantages et incitations"
+        },
+        "content": {
+          "ar": "تتضمن شروط التمتع بالعطلة لإنشاء المؤسسات الناشئة، المنح المالية، تكفل الصندوق الوطني للتشغيل، وتسجيل براءات الاختراع.",
+          "fr": "Comprend conditions pour congé de création, subventions, prise en charge par le Fonds National de l’Emploi et enregistrement des brevets."
+        }
+      },
+      {
+        "section_id": 5,
+        "title": {
+          "ar": "أحكام ختامية",
+          "fr": "Dispositions finales"
+        },
+        "content": {
+          "ar": "تحديد المسؤوليات الوزارية لتنفيذ الأمر الحكومي ونشره بالرائد الرسمي.",
+          "fr": "Désignation des ministres responsables de l’exécution de l’arrêté et publication au Journal officiel."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "مؤسسة ناشئة",
+          "علامة",
+          "تشجيعات",
+          "منحة",
+          "لجنة"
+        ],
+        "fr": [
+          "Startup",
+          "label",
+          "incitations",
+          "subvention",
+          "comité"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Government order implementing the 2018 Startup Law. Defines: 1) How to apply for and lose the Startup Label. 2) How the labeling committee works (public and private members). 3) Benefits: creation leave, grants, employment fund support, patent registration. 4) Ministers responsible for enforcement.",
+      "fr": "Définit les conditions et procédures pour l’octroi et le retrait du label Startup et l’organisation du comité.\nInclut plafonds de ressources humaines, actifs et chiffre d’affaires, procédures de demande, approbation et rejet, et procédures électroniques.\nLe comité comprend des membres des secteurs public et privé, avec définition des rôles du président, des membres, confidentialité et conflits d’intérêts.\nComprend conditions pour congé de création, subventions, prise en charge par le Fonds National de l’Emploi et enregistrement des brevets.\nDésignation des ministres responsables de l’exécution de l’arrêté et publication au Journal officiel.",
+      "ar": "أمر حكومي باش يطبق قانون الشركات الناشئة 2018. يحدد: 1) كيفاش تعمل طلب للحصول على العلامة الناشئة و كيفاش تمشي العلامة. 2) كيفاش تعمل لجنة التسمية (أعضاء عام و خاص). 3) الفوائد: اجازة الإنشاء، المنح، دعم صندوق التشغيل، تسجيل patente. 4) الوزراء المسؤولين عن التنفيذ، و لازم يكون عندك RNE باش تسجل في CNSS و تقدر تفتح SARL أو SA و تحصل على API و patente، و نجم تنجح باش تحصل على دعم من الدولة، و وقتاش تكون عندك مشكل في الحصول على العلامة الناشئة، فاما برشا وسائل باش تساعدك، موش مشكل، و ماكش هناك حاجه تخاف منها، و تعمل كل حاجة باش تنجح في مشروعك."
+    },
+    "source_document": "entry11.json"
+  },
+  {
+    "document_id": 62,
+    "title": {
+      "ar": "بيانات وصفية - قانون المؤسسات الناشئة",
+      "fr": "Metadonnees - Loi N deg 20/2018"
+    },
+    "date": "17-04-2018",
+    "author": {
+      "ar": "",
+      "fr": ""
+    },
+    "type": "Metadonnees",
+    "law_number": "20/2018",
+    "related_laws": [],
+    "summary": {
+      "ar": "",
+      "fr": "Loi N°2018-20 du 17 avril 2018 relative aux Startups régissant le cadre légal et les avantages fiscaux, financiers et administratifs pour les startups en Tunisie, incluant conditions d'éligibilité, la"
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "title": {
+          "ar": "",
+          "fr": "Metadonnees"
+        },
+        "content": {
+          "ar": "",
+          "fr": "Loi N°2018-20 du 17 avril 2018 relative aux Startups régissant le cadre légal et les avantages fiscaux, financiers et administratifs pour les startups en Tunisie, incluant conditions d'éligibilité, labellisation, droits des fondateurs, soutien à la propriété intellectuelle, incitations financières, compte en devise et mécanismes de garantie."
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "ar": [
+          "مؤسسة ناشئة",
+          "منحة",
+          "ضمان"
+        ],
+        "fr": [
+          "Startup",
+          "Label Startup",
+          "pré-label",
+          "innovation",
+          "financement",
+          "garantie",
+          "IP",
+          "congé"
+        ]
+      }
+    ],
+    "startup_law_2018": true,
+    "procedure_category": "startup",
+    "simplified_text": {
+      "en": "Law 20/2018 from April 17, 2018: The Tunisian Startup Act. Covers the legal framework, tax advantages, financial benefits, and administrative support for startups in Tunisia, including eligibility conditions, labeling, founder rights, IP support, grants, and guarantees.",
+      "fr": "Loi N°2018-20 du 17 avril 2018 relative aux Startups régissant le cadre légal et les avantages fiscaux, financiers et administratifs pour les startups en Tunisie, incluant conditions d'éligibilité, labellisation, droits des fondateurs, soutien à la propriété intellectuelle, incitations financières, compte en devise et mécanismes de garantie.",
+      "ar": "القانون 20/2018 من 17 أبريل 2018: قانون الشركات الناشئة التونسية. يشمل الإطار القانوني، والمزايا الضريبية، والمنافع المالية، والدعم الإداري للشركات الناشئة في تونس، بما في ذلك شروط الأهلية، والتسمية، وحقوق المؤسسين، ودعم الملكية الفكرية، والمنح، والضمانات. \n1. لازم يكون لديك RNE باش تسجل شركتك.\n2. نجم تختار بين SARL، SA، API، أو patente باش تتماشى مع قانون الشركات الناشئة.\n3. وقتاش تمشي لتسجل في CNSS، لازم تعمل جميع الأوراق المطلوبة.\n4. كيفاش تختار بين المنافع المالية المختلفة، برشا منها ممكن تساعدك على تطوير شركتك.\n5. موش كل الشركات الناشئة عندها نفس الحقوق، ماكش هناك شروط محددة للأهلية، فاما شروط معينة باش تتماشى مع القانون."
+    },
+    "source_document": "metadata.json"
+  }
+]

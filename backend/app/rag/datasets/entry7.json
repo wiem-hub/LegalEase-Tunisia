@@ -1,0 +1,86 @@
+[
+    {
+        "id": "startup_law_2018_20_001",
+        "domain": "startup_law",
+        "category": "legal_framework",
+        "law_number": "2018-20",
+        "article_number": "Chapitre I",
+        "title": "Dispositions générales",
+        "text_fr": "La présente loi a pour objectif de mettre en place un cadre incitatif pour la création et le développement de Startups basées notamment sur la créativité, l’innovation et l’adoption des nouvelles technologies, et réalisant une forte valeur ajoutée et une compétitivité aux niveaux national et international.",
+        "text_ar": "تهدف هذه القانون إلى وضع إطار تحفيزي لإنشاء وتطوير الشركات الناشئة القائمة أساساً على الإبداع والابتكار واعتماد التقنيات الحديثة، وتحقيق قيمة مضافة قوية وقدرة تنافسية على المستويين الوطني والدولي.",
+        "keywords": [
+            "Startup",
+            "création",
+            "innovation",
+            "entrepreneuriat",
+            "قانون المؤسسات الناشئة"
+        ],
+        "source": "JORT n° 32, 20 avril 2018",
+        "lang": [
+            "fr",
+            "ar"
+        ]
+    },
+    {
+        "id": "startup_law_2018_20_002",
+        "domain": "startup_law",
+        "category": "definitions",
+        "article_number": "Article 2",
+        "title": "Définition d'une Startup",
+        "text_fr": "Au sens de la présente loi, est considérée comme Startup, toute société commerciale constituée conformément à la législation en vigueur, ayant obtenu le label Startup conformément aux conditions prévues par la présente loi.",
+        "text_ar": "تعتبر الشركة الناشئة وفقًا لأحكام هذا القانون، كل شركة تجارية تم تأسيسها وفقًا للتشريعات السارية، وحصلت على علامة الشركة الناشئة وفقًا للشروط المنصوص عليها في هذا القانون.",
+        "keywords": [
+            "Startup",
+            "définition",
+            "société commerciale",
+            "مؤسسة ناشئة"
+        ],
+        "source": "JORT n° 32, 20 avril 2018",
+        "lang": [
+            "fr",
+            "ar"
+        ]
+    },
+    {
+        "id": "startup_law_2018_20_003",
+        "domain": "startup_law",
+        "category": "startup_label",
+        "article_number": "Article 3",
+        "title": "Conditions d'obtention du label Startup",
+        "text_fr": "Le label Startup est octroyé à la société qui remplit les conditions suivantes : 1) Son existence ne dépasse pas huit ans depuis la date de sa constitution ; 2) Ses ressources humaines, le total de son actif et son chiffre d’affaires annuel ne dépassent pas des plafonds fixés par décret ; 3) Son capital est détenu à plus de deux tiers par des personnes physiques ou des sociétés d’investissement ; 4) Son modèle économique est à forte dimension innovante, notamment technologique ; 5) Son activité est à fort potentiel de croissance économique. Le label ouvre droit aux encouragements et incitations prévus par la loi.",
+        "text_ar": "يتم منح علامة الشركة الناشئة للشركة التي تستوفي الشروط التالية: 1) ألا يزيد عمرها عن ثماني سنوات منذ تاريخ تأسيسها؛ 2) ألا تتجاوز مواردها البشرية، وإجمالي أصولها، وإيراداتها السنوية الحدود المحددة بموجب مرسوم؛ 3) أن يكون رأس مالها مملوكًا لأكثر من ثلثيه من قبل أشخاص طبيعيين أو شركات استثمارية؛ 4) أن يكون نموذجها الاقتصادي مبتكرًا، خصوصًا تقنيًا؛ 5) أن تكون نشاطاتها ذات إمكانات نمو اقتصادي عالية. تمنح العلامة الحق في الاستفادة من التحفيزات والمزايا المنصوص عليها في القانون.",
+        "keywords": [
+            "label Startup",
+            "conditions",
+            "innovation",
+            "incitations",
+            "علامة الشركة الناشئة"
+        ],
+        "source": "JORT n° 32, 20 avril 2018",
+        "lang": [
+            "fr",
+            "ar"
+        ]
+    },
+    {
+        "id": "startup_law_2018_20_004",
+        "domain": "startup_law",
+        "category": "startup_creation",
+        "article_number": "Article 4",
+        "title": "Pré-label et création",
+        "text_fr": "Toute personne physique désirant créer une Startup peut solliciter un Pré-label d’une durée de six mois si elle satisfait aux conditions d’innovation et de potentiel de croissance. L’obtention du label final est subordonnée à la constitution de la société et au respect des autres conditions de l’article 3.",
+        "text_ar": "يمكن لأي شخص طبيعي يرغب في إنشاء شركة ناشئة طلب علامة مؤقتة لمدة ستة أشهر إذا استوفى شروط الابتكار وإمكانات النمو. الحصول على العلامة النهائية مرتبط بتأسيس الشركة واستيفاء الشروط الأخرى للمادة 3.",
+        "keywords": [
+            "Pré-label",
+            "création Startup",
+            "innovation",
+            "علامة مؤقتة",
+            "إنشاء شركة ناشئة"
+        ],
+        "source": "JORT n° 32, 20 avril 2018",
+        "lang": [
+            "fr",
+            "ar"
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "title": "Constitution en ligne d’une société anonyme (SA) via le site web de l’API",
+        "eligibility": "Sociétés dont les activités sont régies par le Code d’Incitation aux investissements, capital sans apport en nature. Constitution en ligne dispense la présentation papier des documents.",
+        "bureaux_intervenants": [
+            "Bureau de l’administrateur du système de constitution juridique des sociétés en ligne (API) : recevabilité de la déclaration électronique",
+            "Bureau de l’enregistrement des actes de sociétés (Recette des finances) : enregistrement des actes constitutifs",
+            "Bureau de contrôle des impôts : déclaration d’existence et carte d’identification fiscale",
+            "Bureau du greffe du tribunal de première instance : immatriculation au Registre de Commerce",
+            "Bureau de l’Imprimerie officielle de la République tunisienne : publication au JORT"
+        ],
+        "pieces_a_fournir": "Check-list disponible sur le site API",
+        "delai_global": "24 heures"
+    },
+    {
+        "title": "Constitution via l’interlocuteur unique au Guichet Unique",
+        "eligibility": "Personnes physiques et morales (SARL, SUARL, SA) régies par le Code d’Incitation aux investissements",
+        "bureaux_intervenants": [
+            "Bureau de l’interlocuteur unique : accomplit toutes les formalités pour les promoteurs et entreprises dans les 24 heures",
+            "Enregistrement des actes de sociétés / Recette des finances",
+            "Contrôle des impôts",
+            "Greffe du tribunal de première instance",
+            "Imprimerie officielle (JORT)",
+            "Formalités douanières (numéro d’identification / code en douane)"
+        ],
+        "pieces_a_fournir": "Check-list disponible au bureau et sur le site API",
+        "delai_global": "24 heures"
+    },
+    {
+        "title": "Augmentation de capital – Société Anonyme (SA)",
+        "eligibility": "Sociétés anonymes faisant ou non appel public à l’épargne",
+        "bureaux_intervenants": [
+            "Enregistrement des actes de sociétés (Recette des finances)",
+            "Greffe du tribunal",
+            "Imprimerie officielle (JORT)"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "24 heures"
+    },
+    {
+        "title": "Délivrance des numéros d’identification en douane / code en douane",
+        "eligibility": "Sociétés régies par le Code d’Incitation aux investissements",
+        "bureaux_intervenants": [
+            "Douane"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Séance tenante"
+    },
+    {
+        "title": "Affiliation au régime légal de sécurité sociale",
+        "eligibility": "Sociétés régies par le Code d’Incitation aux investissements",
+        "bureaux_intervenants": [
+            "CNSS"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Séance tenante"
+    },
+    {
+        "title": "Affiliation des travailleurs non salariés",
+        "eligibility": "Promoteurs, gérants, PDG",
+        "bureaux_intervenants": [
+            "CNSS"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Séance tenante"
+    },
+    {
+        "title": "Délivrance des attestations de non-soumission au visa du contrat de travail",
+        "eligibility": "Employeurs et travailleurs étrangers (promoteurs, gérants, PDG)",
+        "bureaux_intervenants": [
+            "Ministère de l’Emploi et de la Formation Professionnelle"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "3 jours"
+    },
+    {
+        "title": "Délivrance des cartes de séjour",
+        "eligibility": "Investisseurs et promoteurs étrangers",
+        "bureaux_intervenants": [
+            "Ministère de l’Intérieur"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Récépissé séance tenante, carte de séjour ≤ 1 mois"
+    },
+    {
+        "title": "Publication au JORT",
+        "eligibility": "Textes des actes constitutifs des sociétés",
+        "bureaux_intervenants": [
+            "Imprimerie officielle de la République tunisienne"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Séance tenante"
+    },
+    {
+        "title": "Assistance et information sur l’environnement d’investissement",
+        "eligibility": "Toutes entités intéressées par l’investissement en Tunisie",
+        "bureaux_intervenants": [
+            "API : déclaration projets d’investissement, Code d’incitation, avantages fiscaux et financiers",
+            "Recette des finances : enregistrement des actes",
+            "Greffe du tribunal : inscription au registre",
+            "Ministère de l’Intérieur : carte de séjour",
+            "Interlocuteur unique : constitution juridique",
+            "Douane : formalités douanières",
+            "CNSS : législation travail et sécurité sociale",
+            "Ministère de l’Emploi : emploi/main d’œuvre étrangère",
+            "Contrôle des impôts : procédures et avantages fiscaux"
+        ],
+        "pieces_a_fournir": "N/A",
+        "delai_global": "N/A"
+    },
+    {
+        "title": "Déclaration d’exercice d’activité commerciale soumise à un cahier des charges",
+        "eligibility": "Toutes entreprises soumises à un cahier des charges",
+        "bureaux_intervenants": [
+            "Ministère du Commerce"
+        ],
+        "pieces_a_fournir": "Check-list API",
+        "delai_global": "Séance tenante"
+    }
+]

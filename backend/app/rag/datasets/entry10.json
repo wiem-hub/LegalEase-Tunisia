@@ -1,0 +1,108 @@
+{
+    "title": "Tunis Startup - Programme Startup Tunisia",
+    "source": "Document officiel / Programme Startup Tunisia",
+    "language": "ar-fr",
+    "sections": [
+        {
+            "section_title": "Introduction",
+            "content": "برنامج المؤسسات الناشئة يندرج ضمن المخطط الوطني الإستراتيجي - تونس الرقمية 2020 - وهو برنامج متواصل ضمن الإستراتيجية الوطنية للتحول الرقمي (2021-2025)."
+        },
+        {
+            "section_title": "Objectifs",
+            "direct_objectives": [
+                "تمكين المؤسسات الناشئة التونسية من النجاح على المستويين الإقليمي والعالمي",
+                "جعل تونس قطبا جامعاً للمؤسسات المجددة عبر جذب الباعثين والشركات من إفريقيا وحوض المتوسط للإنتصاب في تونس",
+                "جعل تونس رائدة في مجال التجديد"
+            ],
+            "strategic_objectives": [
+                "خلق مواطن شغل ذات قيمة مضافة عالية لفائدة التونسيين أصحاب الشهادات",
+                "تطوير مساهمة التجديد التكنولوجي في النمو الاقتصادي وخصوصا في الناتج الداخلي الخام",
+                "تحسين صورة تونس وتعزيز ثقة المستثمرين الأجانب في الموقع التونسي",
+                "إحياء الأمل لدى الشباب والتصدي لهجرة العقول وخلق الثروة"
+            ],
+            "quantitative_objectives": [
+                "إنشاء 1000 مؤسسة ناشئة بمعدل 200 مؤسسة سنوياً",
+                "إحداث 10000 موطن شغل",
+                "تحقيق 1 مليار دينار كرقم معاملات تراكمي",
+                "النجاح في بعث مؤسسة ناشئة تونسية عملاقة وذات بعد عالمي (Licorne)"
+            ]
+        },
+        {
+            "section_title": "Composantes du programme",
+            "pillars": [
+                {
+                    "name": "Startup Act",
+                    "description": "Cadre légal pour encourager l'innovation et soutenir les startups tunisiennes avec le Label Startup. Toutes les démarches administratives passent par le portail électronique des startups.",
+                    "features": [
+                        "Label Startup pour bénéficier d'incitations financières et fiscales",
+                        "Procédure administrative centralisée via le portail startup"
+                    ]
+                },
+                {
+                    "name": "Startup Invest",
+                    "description": "Système d'investissement spécialisé pour les startups via Fonds de Fonds et fonds d'investissement spécialisés couvrant toutes les étapes (Seed, Early, Late Stage).",
+                    "features": [
+                        "Incubateur pour sociétés de gestion",
+                        "Fonds de garantie pour sécuriser les participations"
+                    ]
+                },
+                {
+                    "name": "Startup Empower",
+                    "description": "Programme d'accompagnement et de soutien direct aux startups et aux structures d'accompagnement.",
+                    "features": [
+                        "Subventions pour développement de produits et mise sur le marché",
+                        "Subventions pour incubateurs et accélérateurs réussissant à accompagner un projet labelisé"
+                    ]
+                }
+            ],
+            "enablers": [
+                {
+                    "name": "Talent Pool",
+                    "description": "Développer un vivier de compétences en programmation et innovation, soutenir l'accès des meilleurs jeunes aux écoles et universités mondiales."
+                },
+                {
+                    "name": "Accès aux marchés",
+                    "description": "Programmes pour faciliter l'accès aux marchés régionaux et internationaux et promouvoir la visibilité des startups tunisiennes."
+                },
+                {
+                    "name": "Clusters d'innovation",
+                    "description": "Identification des spécialités technologiques à fort potentiel et création de clusters régionaux pour l'innovation."
+                },
+                {
+                    "name": "Ancrage - Inclusion",
+                    "description": "Créer des espaces adaptés pour ancrer l'écosystème startup dans toutes les régions, restructurer les technopoles et cyberparks existants."
+                }
+            ]
+        },
+        {
+            "section_title": "Cible et indicateurs",
+            "targets": [
+                "Créer 1000 startups (200/an)",
+                "Créer 10 000 emplois",
+                "Atteindre 1 milliard DT en chiffre d'affaires cumulatif",
+                "Lancer une startup tunisienne de type Licorne avec portée mondiale"
+            ]
+        },
+        {
+            "section_title": "Portail officiel",
+            "content": "Toutes les démarches et informations disponibles sur le portail électronique des startups: www.startupAct.tn"
+        },
+        {
+            "section_title": "Références légales",
+            "references": [
+                {
+                    "type": "loi",
+                    "reference": "Loi N°20 de 2018 du 17 avril 2018 relative aux startups"
+                },
+                {
+                    "type": "décret",
+                    "reference": "Décret gouvernemental fixant les conditions, procédures et délais pour l'octroi et le retrait du Label Startup"
+                },
+                {
+                    "type": "décision",
+                    "reference": "Décision du Chef du Gouvernement du 12 février 2019 pour nomination des membres de la commission d'attribution du Label Startup"
+                }
+            ]
+        }
+    ]
+}

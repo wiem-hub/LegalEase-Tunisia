@@ -1,0 +1,102 @@
+{
+    "document_id": 142,
+    "title": {
+        "ar": "أمر حكومي عدد 840 لسنة 2018",
+        "fr": "Arrêté gouvernemental n°840 de 2018"
+    },
+    "date": "11-10-2018",
+    "author": {
+        "ar": "سمِّي السيد رشاد بن رمضان، رئيس ديوان وزير التكوين المهني والتشغيل",
+        "fr": "Monsieur Rachad Ben Ramadhan, Directeur de cabinet du Ministre de la Formation Professionnelle et de l’Emploi"
+    },
+    "type": "Arrêté gouvernemental / Government Order",
+    "law_number": "840/2018",
+    "related_laws": [
+        "20/2018 - Loi Startup",
+        "30/1960 - Code de la sécurité sociale",
+        "51/2007 - Code du travail",
+        "36/2016 - Procédures collectives",
+        "114/1989 - Impôt sur le revenu et IS",
+        "66/2017 - Loi de finances 2018"
+    ],
+    "summary": {
+        "ar": "يحدد شروط وإجراءات وآجال إسناد وسحب علامة المؤسسة الناشئة، ويضبط التنظيم وصلاحيات لجنة إسناد العلامة، ويحدد انتفاع المؤسسات الناشئة بالتشجيعات والمنح والامتيازات، وفق قانون المؤسسات الناشئة 20 لسنة 2018.",
+        "fr": "Définit les conditions, procédures et délais pour l’octroi et le retrait du label Startup, organise les attributions du comité d’attribution, et précise les avantages, subventions et incitations pour les startups, selon la loi Startup n°20 de 2018."
+    },
+    "sections": [
+        {
+            "section_id": 1,
+            "title": {
+                "ar": "أحكام عامة",
+                "fr": "Dispositions générales"
+            },
+            "content": {
+                "ar": "يحدد الشروط والإجراءات المتعلقة بإسناد وسحب علامة المؤسسة الناشئة وتنظيم اللجنة.",
+                "fr": "Définit les conditions et procédures pour l’octroi et le retrait du label Startup et l’organisation du comité."
+            }
+        },
+        {
+            "section_id": 2,
+            "title": {
+                "ar": "شروط وإجراءات إسناد وسحب العلامة",
+                "fr": "Conditions et procédures d’attribution et de retrait du label"
+            },
+            "content": {
+                "ar": "يتضمن أسقف الموارد البشرية والأصول ورقم المعاملات السنوي، طلبات الحصول على العلامة، آليات الموافقة والرفض، والإجراءات الإلكترونية.",
+                "fr": "Inclut plafonds de ressources humaines, actifs et chiffre d’affaires, procédures de demande, approbation et rejet, et procédures électroniques."
+            }
+        },
+        {
+            "section_id": 3,
+            "title": {
+                "ar": "تنظيم وصلاحيات اللجنة",
+                "fr": "Organisation et attributions du comité"
+            },
+            "content": {
+                "ar": "تتألف اللجنة من أعضاء من القطاعين العام والخاص، مع تحديد مهام الرئيس، أعضاء اللجنة، وسرية المعلومات وتضارب المصالح.",
+                "fr": "Le comité comprend des membres des secteurs public et privé, avec définition des rôles du président, des membres, confidentialité et conflits d’intérêts."
+            }
+        },
+        {
+            "section_id": 4,
+            "title": {
+                "ar": "الانتفاع بالتشجيعات والمنح والامتيازات",
+                "fr": "Accès aux subventions, avantages et incitations"
+            },
+            "content": {
+                "ar": "تتضمن شروط التمتع بالعطلة لإنشاء المؤسسات الناشئة، المنح المالية، تكفل الصندوق الوطني للتشغيل، وتسجيل براءات الاختراع.",
+                "fr": "Comprend conditions pour congé de création, subventions, prise en charge par le Fonds National de l’Emploi et enregistrement des brevets."
+            }
+        },
+        {
+            "section_id": 5,
+            "title": {
+                "ar": "أحكام ختامية",
+                "fr": "Dispositions finales"
+            },
+            "content": {
+                "ar": "تحديد المسؤوليات الوزارية لتنفيذ الأمر الحكومي ونشره بالرائد الرسمي.",
+                "fr": "Désignation des ministres responsables de l’exécution de l’arrêté et publication au Journal officiel."
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "ar": [
+                "مؤسسة ناشئة",
+                "علامة",
+                "تشجيعات",
+                "منحة",
+                "لجنة"
+            ],
+            "fr": [
+                "Startup",
+                "label",
+                "incitations",
+                "subvention",
+                "comité"
+            ]
+        }
+    ],
+    "startup_law_2018": true
+}

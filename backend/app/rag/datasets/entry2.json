@@ -1,0 +1,100 @@
+[
+    {
+        "id": "reg_001",
+        "domain": "company_registration",
+        "category": "immatriculation",
+        "title": "Dépôt des documents pour immatriculation",
+        "legal_source": "Loi tunisienne sur le registre des entreprises, Articles 21-24",
+        "description": "Procédure de dépôt des documents et vérification d'identité lors de l'immatriculation des personnes physiques, morales, associations et constructions juridiques.",
+        "steps_or_rules": [
+            "Toutes les demandes (papier ou électronique) sont consignées au bureau d'ordre avec date d'arrivée, type d'opération et identité du déposant.",
+            "Le déposant reçoit immédiatement un récépissé indiquant ses informations et celles de son établissement ou entreprise.",
+            "Le Centre vérifie l'identité, l'éligibilité et l'authenticité des documents.",
+            "Les demandes doivent inclure les pièces obligatoires selon le type : CIN/passeport, certificat de réservation de raison sociale, acte constitutif, PV de nomination, liste des bénéficiaires effectifs, statuts, etc."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "reg_002",
+        "domain": "company_registration",
+        "category": "modification_update",
+        "title": "Mise à jour et modification des données du registre",
+        "legal_source": "Articles 25-28",
+        "description": "Obligations de mise à jour et modifications à effectuer dans le registre de l'entreprise.",
+        "steps_or_rules": [
+            "Toute modification doit être déposée dans le mois qui suit sa date.",
+            "Le Centre vérifie que la modification n'est pas en contradiction avec le registre.",
+            "Les modifications incluent cessation partielle ou totale de l'activité, décès de l'immatriculé, tutelle ou curatelle, et renouvellement provisoire de l'immatriculation.",
+            "La mention de suspension ou cessation n'empêche pas les tiers de demander une inscription."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "reg_003",
+        "domain": "company_registration",
+        "category": "financial_documents",
+        "title": "Dépôt des états financiers et rapports",
+        "legal_source": "Articles 32-34",
+        "description": "Obligations pour les entreprises, associations et constructions juridiques de déposer leurs états financiers et rapports des commissaires au compte.",
+        "steps_or_rules": [
+            "Les états financiers doivent être déposés au plus tard dans le septième mois suivant la clôture de l'exercice.",
+            "Les sociétés doivent déposer les PV d'assemblée générale et rapports des commissaires pour toute augmentation ou réduction de capital.",
+            "Les sociétés étrangères doivent fournir statuts et liste des bénéficiaires effectifs lors de l'immatriculation.",
+            "Toute modification des dirigeants, bénéficiaires ou siège social doit être déposée selon l'article 25."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "reg_004",
+        "domain": "company_registration",
+        "category": "publicity",
+        "title": "Publication des opérations au registre",
+        "legal_source": "Articles 46-50",
+        "description": "Obligations de publication et de communication des informations au public.",
+        "steps_or_rules": [
+            "Le Centre publie un Bulletin officiel avec toutes les opérations relatives aux entreprises.",
+            "Cette publication vaut publicité légale au Journal officiel.",
+            "Les informations publiées incluent constitution, modification, liquidation, dissolution, radiation, etc.",
+            "Les entreprises doivent indiquer leur numéro d'immatriculation sur tous les documents commerciaux."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "reg_005",
+        "domain": "company_registration",
+        "category": "penalties_sanctions",
+        "title": "Sanctions pour retard ou fausses déclarations",
+        "legal_source": "Articles 51-59",
+        "description": "Sanctions financières et pénales pour non-respect des obligations d'immatriculation et dépôt de documents.",
+        "steps_or_rules": [
+            "Pénalités de retard : moitié de la redevance due par mois de retard.",
+            "Non-conformité ou absence de dépôt : constat par procès-verbal et notification au ministère public.",
+            "Amendes : de 1 000 à 5 000 dinars pour omission, double pour récidive ou personnes morales, jusqu'à emprisonnement d'un an pour non-immatriculation.",
+            "Fausses déclarations ou falsifications : prison jusqu'à 5 ans et amende jusqu'à 50 000 dinars, jusqu'à 15 ans et 100 000 dinars pour falsification de documents officiels.",
+            "Infractions constatées par le Directeur du Centre, officiers de police judiciaire et agents habilités."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "reg_006",
+        "domain": "company_registration",
+        "category": "transitional_provisions",
+        "title": "Dispositions transitoires et mise en place du Centre",
+        "legal_source": "Articles 60-64",
+        "description": "Règles transitoires pour la mise en place du Centre national du registre des entreprises et transfert des dossiers.",
+        "steps_or_rules": [
+            "Entrée en vigueur de la loi dans les 3 mois suivant sa publication.",
+            "Transfert des dossiers, registres et fonds par les tribunaux et l’Institut national de normalisation au Centre.",
+            "Changement des numéros d'immatriculation pour les personnes immatriculées selon l'ancienne loi dans un délai de 3 mois.",
+            "Obligation pour les immatriculés de mettre à jour leurs données dans les 6 mois suivant la mise en place du Centre.",
+            "Abrogation de toutes les lois contraires, notamment la loi n° 95-44 du 2 mai 1995."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    }
+]

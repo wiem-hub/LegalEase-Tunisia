@@ -1,0 +1,46 @@
+[
+    {
+        "id": "startup_001",
+        "domain": "startup",
+        "category": "company_creation",
+        "title": "Procès-Verbal de nomination et formalités de création d’entreprise",
+        "legal_source": "Guide du Guichet Unique de l’API, pages 15-22",
+        "description": "Procédures pour nommer un dirigeant et accomplir les démarches légales pour créer une société en Tunisie.",
+        "steps_or_rules": [
+            "Rédiger un procès-verbal de nomination si les statuts ne prévoient pas le dirigeant.",
+            "Indiquer dans le PV : identité du dirigeant, siège social, durée du mandat, rémunération et avantages.",
+            "Pour SARL : indiquer les associés et le gérant nommé.",
+            "Pour SA : indiquer les actionnaires et le dirigeant nommé.",
+            "Mentionner la date, le lieu et la nature de l’assemblée générale, le président, les parts sociales et le résumé des discussions.",
+            "Ouvrir un compte bancaire au nom de la société (obligatoire pour SA, facultatif pour SARL/SUARL depuis 2019).",
+            "Déposer le capital social dans un compte indisponible jusqu’à accomplissement des formalités.",
+            "Enregistrer les statuts et PV de nomination à la Recette des Finances dans les 60 jours.",
+            "Fournir les documents nécessaires : statuts signés, PV de nomination signés, copies de CIN/Passeports, contrat de location ou titre de propriété, attestation de dénomination sociale.",
+            "Immatriculer la société au Registre National des Entreprises (RNE) pour obtenir l’extrait et la déclaration d’existence.",
+            "Déclarer la société à la CNSS pour la couverture sociale obligatoire.",
+            "Préparer un cachet pour la société."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    },
+    {
+        "id": "startup_002",
+        "domain": "startup",
+        "category": "company_creation",
+        "title": "Immatriculation d’une SARL",
+        "legal_source": "Guide du Guichet Unique de l’API, page 21",
+        "description": "Démarches et documents nécessaires pour immatriculer une SARL en Tunisie.",
+        "steps_or_rules": [
+            "Fournir la patente (déclaration d’existence + carte d’identification fiscale).",
+            "Remplir le formulaire de demande d’immatriculation au RNE signé par le représentant légal.",
+            "Fournir un contrat de location ou titre de propriété enregistré.",
+            "Fournir certificat de réservation de dénomination sociale.",
+            "Fournir les statuts signés et enregistrés.",
+            "Préparer copies de CIN/passeports des associés.",
+            "Payer frais d’immatriculation (environ 50 dinars, pénalités 25 dinars/mois de retard).",
+            "Recevoir un extrait du Registre National des Entreprises."
+        ],
+        "language": "fr",
+        "target_user": "founder"
+    }
+]

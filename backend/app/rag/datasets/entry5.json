@@ -1,0 +1,51 @@
+[
+    {
+        "section": "Definition of the Employment Relationship",
+        "article": 6,
+        "title": "Employment Contract",
+        "content": "An employment contract exists when a worker performs services under the authority and supervision of an employer in return for remuneration. The contract may be written or oral, explicit or implicit.",
+        "importance": "Legally defines who must be declared to CNSS."
+    },
+    {
+        "section": "Types of Employment Contracts",
+        "article": "6-2",
+        "title": "Fixed-Term Contract (CDD)",
+        "content": "A fixed-term contract is allowed only in specific cases: temporary increase in activity, replacement of an absent employee, or seasonal work. Total duration must not exceed 4 years, including renewals."
+    },
+    {
+        "section": "Types of Employment Contracts",
+        "article": "6-3",
+        "title": "Transformation into Open-Ended Contract (CDI)",
+        "content": "If a fixed-term contract exceeds the legal duration or is renewed illegally, it is automatically considered an open-ended contract (CDI)."
+    },
+    {
+        "section": "Types of Employment Contracts",
+        "article": "6-4",
+        "title": "Equal Rights for CDD Employees",
+        "content": "Employees hired under a CDD must receive the same salary as permanent employees and benefit from the same working conditions."
+    },
+    {
+        "section": "Trial Period (Période d’Essai)",
+        "article": 18,
+        "title": "Trial Period",
+        "content": "A trial period may be included in the employment contract. During this period, either party may terminate the contract without compensation but must respect the legal notice period."
+    },
+    {
+        "section": "Suspension of the Employment Contract",
+        "article": 20,
+        "title": "Temporary Suspension",
+        "content": "The employment contract is suspended (not terminated) in cases such as illness, accident, or maternity leave. After the suspension period, the employee has the right to return to their position."
+    },
+    {
+        "section": "Termination of the Employment Contract",
+        "article": 14,
+        "title": "Termination Rules",
+        "content": "Termination must be justified by a real and serious cause and respect the legal notice period (préavis)."
+    },
+    {
+        "section": "Termination of the Employment Contract",
+        "article": "14 bis",
+        "title": "Abusive Dismissal",
+        "content": "A dismissal is abusive if it has no legal or factual justification. In such cases, the employer may be required to pay damages."
+    }
+]

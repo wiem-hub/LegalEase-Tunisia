@@ -1,0 +1,139 @@
+{
+    "title": "Guide Startups Tunisie",
+    "source": "Document officiel / Guide Startup",
+    "language": "fr",
+    "sections": [
+        {
+            "section_title": "Introduction",
+            "content": "Les startups constituent un atout majeur pour l’économie tunisienne. L’État vise à encourager leur création et développement."
+        },
+        {
+            "section_title": "Glossaire",
+            "terms": [
+                {
+                    "term": "Circulaire",
+                    "definition": "Document adressé par une autorité administrative pour expliciter la réglementation."
+                },
+                {
+                    "term": "Décret",
+                    "definition": "Acte réglementaire ou individuel pris par le président ou le Premier ministre."
+                },
+                {
+                    "term": "Fonds d’amorçage",
+                    "definition": "Financement des dépenses préalables à la création d'une entreprise."
+                },
+                {
+                    "term": "FCPR",
+                    "definition": "Fonds commun de placement à risque pour bénéficier d’avantages fiscaux."
+                },
+                {
+                    "term": "Label Startup",
+                    "definition": "Label de mérite pour les sociétés tunisiennes répondant aux critères de labélisation."
+                },
+                {
+                    "term": "Pré-label Startup",
+                    "definition": "Attribué aux fondateurs n’ayant pas encore créé leur société pour préparer l’obtention du label."
+                },
+                {
+                    "term": "Scalabilité",
+                    "definition": "Capacité d’accroître rapidement le volume d’affaires tout en restant rentable."
+                },
+                {
+                    "term": "Proof of Concept",
+                    "definition": "Vérification que l’idée ou le projet peut fonctionner."
+                },
+                {
+                    "term": "Pitch",
+                    "definition": "Présentation condensée d’un projet pour convaincre un interlocuteur."
+                }
+            ]
+        },
+        {
+            "section_title": "Startup Act - Cadre général",
+            "content": "Créé en avril 2018, pour promouvoir et faciliter le lancement et le développement des startups en Tunisie.",
+            "laws": [
+                {
+                    "type": "loi",
+                    "reference": "Loi N°2018-20 du 17 avril 2018 relative aux Startups"
+                },
+                {
+                    "type": "décret",
+                    "reference": "Décret N°2018-840 du 11 octobre 2018"
+                },
+                {
+                    "type": "circulaire",
+                    "reference": "Circulaires BCT N°2019-01 et N°2019-02"
+                }
+            ]
+        },
+        {
+            "section_title": "Label Startup",
+            "criteria": [
+                {
+                    "name": "Indépendance",
+                    "description": "Capital détenu à plus de 2/3 par personnes physiques, organismes d’investissement ou startups étrangères."
+                },
+                {
+                    "name": "Scalabilité",
+                    "description": "Marché cible large, solution adaptée, PoC, équipe capable de mise en œuvre."
+                },
+                {
+                    "name": "Innovation",
+                    "description": "Modèle économique innovant apportant une solution différenciée."
+                },
+                {
+                    "name": "Taille",
+                    "description": "Effectif ≤ 100, total bilan ou CA annuel ≤ 15 millions de dinars."
+                },
+                {
+                    "name": "Âge de la société",
+                    "description": "≤ 8 ans depuis constitution juridique."
+                }
+            ],
+            "pre_label": {
+                "duration": "6 mois",
+                "conditions": [
+                    "Innovation",
+                    "Scalabilité",
+                    "Constitution de la société avant expiration"
+                ]
+            },
+            "process": [
+                "Préparation du dossier",
+                "Soumission via portail startup",
+                "Vérification des documents",
+                "Évaluation par Collège Startup",
+                "Obtention du pré-label puis label"
+            ],
+            "documents_required": [
+                "Extrait RNE",
+                "Carte d’identification fiscale",
+                "Copie des statuts et registre des actionnaires",
+                "Attestation CNSS avec liste des salariés",
+                "Copie états financiers de l’année précédant le dépôt"
+            ]
+        },
+        {
+            "section_title": "Avantages du Startup Act",
+            "for_entrepreneurs": [
+                "Bourse Startup : 1 000 à 5 000 DT net/mois",
+                "CIVP et programmes d’emploi",
+                "Congé pour création de startup",
+                "Protection brevets",
+                "Autres incitations financières"
+            ],
+            "for_startups": "Accès au financement, incubation, conseils et accompagnement",
+            "for_investors": "Avantages fiscaux et incitations à investir"
+        },
+        {
+            "section_title": "Timeline et sessions de labélisation",
+            "session_period": "1ère semaine de chaque mois pour soumission",
+            "délai_réponse": "30 jours pour réponse au dossier, 60 jours silence = avis favorable",
+            "nombre_candidatures_max": {
+                "total": 40,
+                "pre_label": 20,
+                "label": 20
+            }
+        }
+    ]
+}

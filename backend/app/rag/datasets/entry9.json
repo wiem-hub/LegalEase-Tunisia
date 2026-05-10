@@ -1,0 +1,116 @@
+{
+    "startup_definition": {
+        "characteristics": [
+            "Existence limitée dans le temps",
+            "Activité innovante",
+            "Reproductible à plus grande échelle",
+            "Activité avec fort potentiel de croissance"
+        ],
+        "tunisia_ecosystem": {
+            "year": 2022,
+            "total_startups": 1081
+        }
+    },
+    "legal_framework": {
+        "startup_act": {
+            "law": "n°2018-20 du 17 avril 2018",
+            "decree": "n°2018-840 du 11 octobre 2018",
+            "central_bank_circulars": [
+                "n°2019-01",
+                "n°2019-02"
+            ]
+        },
+        "label_startup": {
+            "validity_years": 8,
+            "eligibility_conditions": {
+                "max_age_years": 8,
+                "max_employees": 100,
+                "max_assets_or_revenue_dinars": 15000000,
+                "ownership_structure": ">= 2/3 par personnes physiques, sociétés de capital risque, fonds d’amorçage, organismes d’investissement ou startups étrangères",
+                "innovative_business_model": true,
+                "high_growth_potential": true
+            }
+        }
+    },
+    "label_procedure": {
+        "application": {
+            "type": [
+                "personne physique",
+                "société"
+            ],
+            "portal_url": "https://www.startupact.tn/accueil.html",
+            "review_period_days": 30,
+            "prelabel_for_physical_persons": {
+                "duration_months": 6,
+                "required_to_create_company": true,
+                "response_time_days": 3
+            }
+        },
+        "labelling_committee": {
+            "members_count": 9,
+            "appointment": {
+                "authority": "chef du gouvernement",
+                "proposal_by": "ministre chargé de l’économie numérique",
+                "term_years": 3,
+                "renewable_once": true
+            },
+            "composition": {
+                "president": "expérience en gestion et direction, compétence reconnue en investissement et innovation",
+                "public_sector": 2,
+                "private_sector": 4,
+                "experts": 2
+            },
+            "decision_rule": "minimum 5 avis favorables pour octroi"
+        }
+    },
+    "financial_and_fiscal_benefits": {
+        "entrepreneurs": {
+            "conge_creation_startup": "1 an, renouvelable une seule fois",
+            "startup_grant": {
+                "duration": "1 an",
+                "monthly_amount_dinars": [
+                    1000,
+                    5000
+                ]
+            },
+            "patent_fees_coverage": true,
+            "corporate_tax_exemption": true,
+            "social_contributions_coverage": true,
+            "special_foreign_currency_account": {
+                "allowed": true,
+                "max_annual_allocation_dinars": 100000
+            },
+            "startup_guarantee_fund_access": true,
+            "capital_gains_tax_exemption": true,
+            "simplified_auditor_selection": true,
+            "multiple_convertible_bond_issuances_allowed": true
+        }
+    },
+    "obligations_for_label": {
+        "growth_objectives": [
+            {
+                "after_years": 3,
+                "min_employees": 10,
+                "min_assets_or_revenue_dinars": 300000
+            },
+            {
+                "after_years": 5,
+                "min_employees": 30,
+                "min_assets_or_revenue_dinars": 1000000
+            }
+        ],
+        "accounting_compliance": {
+            "required": true,
+            "reporting_deadline": "31 mars de l’année suivant l’exercice"
+        },
+        "notify_changes": {
+            "required": true,
+            "deadline_months": 1
+        },
+        "non_compliance": {
+            "procedure": "procès-verbal après audition du représentant légal",
+            "label_removal_by": "ministre chargé de l’économie numérique",
+            "committee_advice_required": true
+        }
+    }
+}

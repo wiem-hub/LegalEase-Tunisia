@@ -1,0 +1,152 @@
+{
+    "startup_law_2018": {
+        "law_number": 21,
+        "date": "2018-04-17",
+        "purpose": "Support and regulate startups in Tunisia",
+        "startup_mark": {
+            "article_number": "3-6",
+            "definition": "علامة المؤسسة الناشئة",
+            "validity_duration_years": 8,
+            "initial_approval": {
+                "article_number": "4",
+                "duration_months": 6,
+                "conditions": [
+                    "استيفاء الشرطين الواردين بالنقطتين 4 و5 من الفصل 3"
+                ]
+            },
+            "committee": {
+                "article_number": "6",
+                "name": "لجنة إسناد علامة المؤسسة الناشئة",
+                "responsibilities": [
+                    "البَت في استجابة المطالب للحصول على علامة المؤسسة الناشئة",
+                    "عرض المطالب التي تم فرزها",
+                    "إصدار قرار الموافقة الأولية"
+                ]
+            },
+            "withdrawal_conditions": [
+                "مخالفة شروط النمو أو الموارد البشرية أو مجموع الأصول أو رقم المعاملات",
+                "عدم استيفاء الشروط الواردة بالفصل 3"
+            ],
+            "text": "Full legal text of startup mark articles in Arabic...",
+            "keywords": [
+                "startup_mark",
+                "مؤسسة ناشئة",
+                "علامة المؤسسة الناشئة"
+            ]
+        },
+        "founder_rights": {
+            "leave_to_create_startup": {
+                "article_number": "8-9",
+                "duration_years": 1,
+                "renewable": true,
+                "max_founders": 3,
+                "employer_objection": "غير مسموح بالاعتراض",
+                "conditions_for_small_private_employer": "ترخيص مسبق وكتابي إذا كان عدد الأجراء أقل من 100",
+                "text": "Full legal text of leave to create startup in Arabic...",
+                "keywords": [
+                    "leave",
+                    "عطلة",
+                    "مؤسسة ناشئة"
+                ]
+            },
+            "grant": {
+                "article_number": "10",
+                "duration_years": 1,
+                "max_founders": 3,
+                "single_grant_rule": true,
+                "text": "Full legal text of startup grant in Arabic...",
+                "keywords": [
+                    "grant",
+                    "منحة",
+                    "مؤسسة ناشئة"
+                ]
+            },
+            "young_graduate_programs": {
+                "article_number": "11",
+                "eligibility_period_years": 3,
+                "choice_to_defer": true,
+                "text": "Full legal text of young graduate programs in Arabic...",
+                "keywords": [
+                    "graduate",
+                    "fresh graduate",
+                    "program",
+                    "مؤسسة ناشئة"
+                ]
+            }
+        },
+        "ip_support": {
+            "article_number": "12",
+            "national_and_international_registration": true,
+            "evaluation_required": true,
+            "funding_sources": [
+                "صندوق تنمية المواصلات وتكنولوجيات المعلومات والاتصال",
+                "هبات وموارد أخرى"
+            ],
+            "text": "Full legal text of IP support for startups in Arabic...",
+            "keywords": [
+                "IP",
+                "براءات اختراع",
+                "مؤسسة ناشئة"
+            ]
+        },
+        "financial_incentives": {
+            "article_number": "13-16,19",
+            "tax_exemptions": true,
+            "coverage_of_social_security_contributions": true,
+            "investment_reinvestment_exemptions": true,
+            "startup_funding_mechanisms": [
+                "صناديق ذات رأس مال تنمية",
+                "صناديق مساعدة على الانطلاق",
+                "صناديق مشتركة للتوظيف في رأس المال"
+            ],
+            "text": "Full legal text of financial incentives in Arabic...",
+            "keywords": [
+                "tax",
+                "incentives",
+                "تمويل",
+                "مؤسسة ناشئة"
+            ]
+        },
+        "foreign_currency_account": {
+            "article_number": "17",
+            "allowed_for_startups": true,
+            "funding_sources": [
+                "المساهمة في رأس المال",
+                "إصدار رقاع قابلة للتحويل إلى أسهم",
+                "تسبقات في شكل حساب جار للشركاء"
+            ],
+            "freedom_of_use": true,
+            "text": "Full legal text of foreign currency account in Arabic...",
+            "keywords": [
+                "currency",
+                "حساب بالعملة الأجنبية",
+                "مؤسسة ناشئة"
+            ]
+        },
+        "startup_guarantee": {
+            "article_number": "18",
+            "mechanism_name": "صندوق ضمان المؤسسات الناشئة",
+            "coverage": "لضمان مساهمات شركات الاستثمار في رأس مال المؤسسات الناشئة",
+            "funding_sources": [
+                "موارد صندوق تنمية المواصلات وتكنولوجيات المعلومات والاتصال"
+            ],
+            "management": "الشركة التونسية للضمان",
+            "text": "Full legal text of startup guarantee in Arabic...",
+            "keywords": [
+                "guarantee",
+                "صندوق ضمان",
+                "مؤسسة ناشئة"
+            ]
+        },
+        "customs_status": {
+            "article_number": "20",
+            "status": "تعتبر المؤسسة الناشئة متعاملا اقتصاديا معتمدا",
+            "text": "Full legal text of customs status for startups in Arabic...",
+            "keywords": [
+                "customs",
+                "الجمارك",
+                "مؤسسة ناشئة"
+            ]
+        }
+    }
+}

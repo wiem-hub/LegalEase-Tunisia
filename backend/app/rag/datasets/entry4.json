@@ -1,0 +1,138 @@
+[
+    {
+        "chapter": "III - Affiliation et Immatriculation",
+        "article": 6,
+        "title": "Obligation d'immatriculation",
+        "content": "Tout employeur occupant une personne des catégories prévues par l'article premier est tenu de la faire immatriculer à la CNSS. Cette obligation est étendue aux travailleurs indépendants. Les conditions et modalités sont fixées par décret."
+    },
+    {
+        "chapter": "IV - Les Cotisations",
+        "article": 7,
+        "title": "Taux et calcul des cotisations",
+        "content": "Les cotisations dues sont fixées au taux de 7,5%, calculées sur la base des 2/3 du salaire minimum agricole ou interprofessionnel garanti selon la catégorie. Pour les salariés, 2/3 à charge de l'employeur et 1/3 à charge du salarié. Pour les travailleurs indépendants, le taux est à leur charge."
+    },
+    {
+        "chapter": "IV - Les Cotisations",
+        "article": 8,
+        "title": "Modalités de recouvrement",
+        "content": "Les modalités de recouvrement des cotisations sont fixées par décret."
+    },
+    {
+        "chapter": "IV - Les Cotisations",
+        "article": 9,
+        "title": "Responsabilité de l'employeur",
+        "content": "L'employeur ne peut récupérer sur le travailleur les retenues qu'il a négligées et doit réparer tout préjudice résultant de sa négligence ou retard dans le versement des cotisations."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "I - Les Soins",
+        "article": 10,
+        "title": "Bénéficiaires des prestations de soins",
+        "content": "Les assurés sociaux, leur conjoint, enfants mineurs à charge, enfants au-delà de 20 ans incapables de travailler, la fille au-delà de 20 ans sans ressources, et les ascendants à charge remplissant certaines conditions."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "I - Les Soins",
+        "article": 11,
+        "title": "Prestations et action sanitaire",
+        "content": "Les personnes citées à l'article 10 bénéficient des prestations de soins et, le cas échéant, de l'action sanitaire assurée par la CNSS."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension de vieillesse",
+        "article": 12,
+        "title": "Périodes de cotisations",
+        "content": "Pour déterminer le droit à pension, seules les périodes de cotisations effectives sont prises en compte."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension de vieillesse",
+        "article": 13,
+        "title": "Conditions pour bénéficier d'une pension de vieillesse",
+        "content": "Être âgé de 65 ans minimum, avoir au moins 120 mois de cotisations validées, et ne pas exercer d'activité professionnelle rémunérée."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension de vieillesse",
+        "article": 14,
+        "title": "Montant de la pension de vieillesse",
+        "content": "Montant minimum : 30% du salaire minimum garanti. Fraction de cotisation supérieure à 120 mois : majoration de 0,5% par trimestre, sans dépasser 80% du salaire."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension d'invalidité",
+        "article": 15,
+        "title": "Bénéficiaires de la pension d'invalidité",
+        "content": "Assurés sociaux atteints d'une incapacité non professionnelle réduisant leur capacité de travail d'au moins deux tiers."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension d'invalidité",
+        "article": 16,
+        "title": "Conditions pour bénéficier de la pension d'invalidité",
+        "content": "Ne pas avoir atteint l'âge de la pension de vieillesse et avoir cotisé au moins 60 mois."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension d'invalidité",
+        "article": 17,
+        "title": "Montant de la pension d'invalidité",
+        "content": "Montant : 30% du salaire minimum garanti. Majorations trimestrielles de 0,5% pour cotisations supplémentaires, maximum 80%."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension d'invalidité",
+        "article": 18,
+        "title": "Majoration pour assistance tierce personne",
+        "content": "Pension majorée de 20% si l'invalide a besoin d'une tierce personne pour les actes de la vie quotidienne."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension de survivants",
+        "article": 21,
+        "title": "Conjoint survivant",
+        "content": "Conjoint survivant bénéficie d'une pension si le défunt remplissait les conditions pour pension de vieillesse ou d'invalidité."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "II - Pensions de vieillesse, invalidité et survivants",
+        "subsection": "Pension de survivants",
+        "article": 23,
+        "title": "Montant de la pension de survivants",
+        "content": "50% de la pension de vieillesse ou d'invalidité du défunt."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "III - Liquidation des pensions",
+        "article": 29,
+        "title": "Demande de pension",
+        "content": "La demande doit être présentée à la CNSS dans un délai de 5 ans après l'âge légal de pension, cessation d'activité ou décès. Retard entraîne déchéance du droit aux arrérages antérieurs."
+    },
+    {
+        "chapter": "II - Les Prestations",
+        "section": "III - Liquidation des pensions",
+        "article": 30,
+        "title": "Jouissance des pensions",
+        "content": "La pension commence le 1er jour du mois suivant la cessation d'activité, reconnaissance d'invalidité ou décès. Interruption si conditions non remplies."
+    },
+    {
+        "chapter": "III - Dispositions Diverses",
+        "article": 35,
+        "title": "Subrogation de la CNSS",
+        "content": "La CNSS est subrogée de plein droit à la victime ou ses ayants droit pour le remboursement des dépenses dues à un accident ou blessure."
+    },
+    {
+        "chapter": "IV - Dispositions Transitoires",
+        "article": 38,
+        "title": "Affiliation transitoire",
+        "content": "Petits agriculteurs, pêcheurs et artisans peuvent présenter des demandes d'affiliation dans un délai d'un an après l'entrée en vigueur de la loi."
+    }
+]
